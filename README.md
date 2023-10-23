@@ -24,3 +24,5 @@ The app is currently hosted on Heroku, and can be accessed [here](https://eiland
 
 ![Alt text](doc_images\journey.gif)
 
+See 'doc_images\journey.gif' for a demo of the app.
+

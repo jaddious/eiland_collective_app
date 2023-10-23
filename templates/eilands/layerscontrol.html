@@ -1,0 +1,31 @@
+<script type="text/javascript">
+  var baseLayers = {
+    "<img src='{{ url_for('static',filename='Eilands/styles/images/1939.jpg') }}' width='40px' height='40px' /> <span class='my-layer-item'>NGI 1939</span>": ngi,
+    "<img src='{{ url_for('static',filename='Eilands/styles/images/sat.jpg') }}' width='40px' height='40px' /> <span class='my-layer-item'>Satellite 2021</span>": grayscale,
+    "<img src='{{ url_for('static',filename='Eilands/styles/images/osm.png') }}' width='40px' height='40px' /> <span class='my-layer-item'>OSM</span>":osm,
+    "<img src='{{ url_for('static',filename='Eilands/styles/images/popp.jpg') }}' width='40px' height='40px' /> <span class='my-layer-item'>Popp (1842 - 1879)</span>": popp,
+    "<img src='{{ url_for('static',filename='Eilands/styles/images/ferraris.png') }}' width='40px' height='40px' /> <span class='my-layer-item'>Ferraris (1842 - 1879)</span>": ferraris
+  };
+
+
+
+  L.Control.Custom = L.Control.Layers.extend({
+  onAdd: function () {
+   this._initLayout();
+   this._addButton();
+   this._update();
+   return this._container;
+  },
+  _addButton: function () {
+   var elements = this._container.getElementsByClassName('leaflet-control-layers-list');
+   var button = L.DomUtil.create('button', 'controlbutton', elements[0]);
+   button.textContent = 'Close';
+   L.DomEvent.on(button, 'click', function(e){
+     L.DomEvent.stop(e);
+     this._collapse();
+   }, this);
+  }
+  });
+
+  var control = new L.Control.Custom(baseLayers).addTo(map);
+</script>

@@ -1,0 +1,793 @@
+
+
+:root {
+  --headerheight: 13VH;
+  --footerheight: 50px;
+  --sidebarrowheight:100px;
+  --sidebarwidth:350px;
+}
+
+/* Fonts */
+
+
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: url('{{ url_for('static',filename='FranklinGothic-HeavyItalic.eot') }}');
+    src: url('{{ url_for('static',filename='FranklinGothic-HeavyItalic.eot?#iefix') }}') format('embedded-opentype'),
+        url('{{ url_for('static',filename='FranklinGothic-HeavyItalic.woff2') }}') format('woff2'),
+        url('{{ url_for('static',filename='FranklinGothic-HeavyItalic.woff') }}') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: url('fonts/FranklinGothic-Medium.eot');
+    src: url('fonts/FranklinGothic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FranklinGothic-Medium.woff2') format('woff2'),
+        url('fonts/FranklinGothic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Baskerville MT Std';
+    src: url('fonts/BaskervilleMTStd-Regular.eot');
+    src: url('fonts/BaskervilleMTStd-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BaskervilleMTStd-Regular.woff2') format('woff2'),
+        url('fonts/BaskervilleMTStd-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+/* Header */
+
+
+
+.header {
+  position: relative;
+  width:100%;
+  border-bottom: 1px solid rgb(223, 227, 231);
+  font-size: 30px;
+  height:var(--headerheight);
+}
+
+.header_container{
+  left: 200px;
+  position: absolute;
+  align-items: bottom;
+  bottom: 20%;
+}
+
+.appName{
+  font-family: "Franklin Gothic";
+  font-size:40px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.pagesName{
+  font-family: "Franklin Gothic";
+  font-size:20px;
+  font-weight: 200;
+  padding-right: 30px;
+  padding-left: 50px;
+  cursor: pointer;
+}
+
+.pagesName:hover{
+  color: #4264fb!important;
+}
+
+.appName:hover{
+  color: #4264fb!important;
+}
+
+.header_logo{
+  position: relative;
+  top:0px;
+  height:100%;
+  float: left;
+  padding-right: 50px;
+}
+
+.user_logo{
+  position: relative;
+  top:0px;
+  height:70%;
+  float: right;
+  padding-top: 3VH;
+  right:15px;
+}
+
+
+/* Elements */
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: auto;
+}
+
+body{
+        background-color: #fbfdff ;
+        padding:20px;
+    }
+
+footer{
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height:var(--footerheight);
+  z-index: -5;
+}
+
+img{
+  cursor: pointer;
+}
+
+h1 {
+    font-family: "Franklin Gothic";
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+h2 {
+    font-family: "Franklin Gothic";
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 5px;
+    line-height: 20px;
+    color: black;
+}
+
+/* map */
+
+#map{
+  position:fixed;
+  top: 0px;
+  bottom:0px;
+  right: 0px;
+  left:0px;
+  overflow:none;
+}
+
+.leaflet-control-container {position: absolute; top:17%; right: 5px ; z-index: 10000;width: 300px;}
+.leaflet-control-attribution {display: none}
+
+.leaflet-control-layers-toggle {
+    background-image: url(images/layers.png);
+    width: 94px;
+    height: 36px;
+}
+
+
+
+/* Popups */
+
+#overlay {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: #000;
+filter:alpha(opacity=70);
+-moz-opacity:0.7;
+-khtml-opacity: 0.7;
+opacity: 0.7;
+z-index: 20000;
+display: none;
+}
+.cnt223 a{
+text-decoration: none;
+}
+.popup{
+width: 90%;
+margin: 0 auto;
+display: none;
+z-index: 20001;
+}
+
+.cnt223{
+min-height: 150px;
+background: #f3f3f3;
+position: relative;
+z-index: 20003;
+padding: 15px 35px;
+border-radius: 5px;
+box-shadow: 0 2px 5px #000;
+}
+
+.cnt223 p{
+clear: both;
+    color: #555555;
+    /* text-align: justify; */
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.cnt223 p a{
+color: #d91900;
+font-weight: bold;
+}
+.cnt223 .x{
+float: right;
+height: 35px;
+left: 22px;
+position: relative;
+top: -25px;
+width: 34px;
+}
+.cnt223 .x:hover{
+cursor: pointer;
+}
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  top:30px;
+  max-width: 33%;
+  display: none;
+  position: fixed;
+  left: 33%;
+  border: 3px solid #f1f1f1;
+  z-index: 3000;
+  background-color: white;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .form-popup {
+      max-width: 66%;
+      left:16.5%
+  }
+}
+
+/* Add styles to the form container */
+.form-container {
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+
+/* Buttons */
+
+.btn_newitem{
+  width:150px;
+  height:40px;
+  float:right;
+  border-radius:18px;
+  font-weight: 700;
+  background-color: #4264fb;
+  font-size: 12px;
+  color: #fff;
+  padding: 6px 18px;
+  text-align: center;
+  transition: background-color .125s,border-color .125s,color .125s;
+  border: none;
+  display: block!important;
+}
+
+.btn_newitem:hover{
+  background-color: #0F38BF;
+}
+
+.select-arrow {
+    position: absolute;
+    right: 12px;
+    top: calc(50% - 1px);
+    pointer-events: none;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 5px solid #617889;
+    width: 8px;
+    height: 8px;
+    margin-top: -1px;
+    transition: border-top-color .125s;
+}
+
+
+.search_bar{
+  padding: 30px;
+  background: url("images/search.png") no-repeat left;
+  background-size: 30px;
+}
+
+/*Eilands map */
+
+.map_menu{
+  position:fixed;
+  left:0%;
+  bottom:0%;
+  height:30px;
+  right:0%;
+  z-index: 20000;
+  background-color: white;
+  box-shadow: 0 0 30px 6px rgb(31 51 73 / 30%) !important;
+}
+
+.help_button{
+  position:relative;
+  width:30px;
+  height:30px;
+  border-radius: 15px !important;
+  vertical-align:top!important;
+  border:1px solid black;
+  background-color: black;
+  cursor: pointer;
+}
+
+.headerbuttons{
+  display:inline-block;
+}
+
+.question_mark{
+  color:white;
+  font-size: 25px;
+  vertical-align: center!important;
+  text-align: center!important;
+  font-family: "Franklin Gothic";
+  font-weight: 600;
+}
+
+.menu_title{
+  position:fixed;
+  left:0%;
+  top:3%;
+  border-radius: 8px !important;
+  padding:10px;
+  z-index: 20000;
+
+}
+
+.title{
+background-color:rgba(255, 255, 255, 0.5);
+  display:inline-block;
+  position:relative;
+  min-width:65px;
+  max-height:60px;
+  border-radius: 15px !important;
+  margin-left:10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.credits{
+  position:fixed;
+  left:5%;
+  bottom:35px;
+  height:3%;
+  right:5%;
+  z-index: 20000;
+}
+
+.credits_text{
+  color:black;
+  font-family: "Baskerville MT Std";
+  font-size:15px;
+}
+
+.eilands_gallery{
+  animation-duration: 0.5s;
+  animation-name: opengallery;
+  display:none;
+  position:fixed;
+  left:0%;
+  bottom:0%;
+  right:0px;
+  background-color: white;
+  box-shadow: 0 0 30px 6px rgb(31 51 73 / 30%) !important;
+  z-index: 20000;
+  padding:10px;
+  max-height: 40%;
+}
+
+@keyframes opengallery {
+  from {
+    max-height: 30px;
+  }
+
+  to {
+    max-height: 100%;
+  }
+}
+
+
+.eiland_gallery{
+  position:relative;
+  height:300px;
+
+  overflow-y:scroll;
+}
+
+.gallery_close{
+  width:100%;
+  height:25px;
+  background-image: url("images/arrowdown.png");
+  background-repeat: no-repeat;
+  background-size: 25px;
+  background-position: center;
+  opacity: 50%;
+  cursor: pointer;
+}
+
+.gallery_open{
+  width:100%;
+  height:25px;
+  background-image: url("images/arrowup.png");
+  background-repeat: no-repeat;
+  background-size: 25px;
+  background-position: center;
+  opacity: 50%;
+  cursor: pointer;
+}
+
+.neweiland_button{
+  top:60px;
+  width:30px;
+  height:30px;
+  cursor: pointer!important;
+  background-image: url("images/new.jpg")!important;
+  background-repeat: no-repeat!important;
+  background-size: 30px!important;
+  background-position: center!important;
+}
+
+.column{
+    display: inline-block;
+}
+
+.third{
+  width:30%;
+  margin:2px;
+}
+
+.half{
+  width:45%;
+}
+
+.sixth{
+  width:15%;
+}
+
+
+
+
+.center{
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-width: 500px) {
+  .half {
+    width:100%;
+  }
+  .third{
+    width:100%;
+  }
+  .sixth{
+    width:45%;
+  }
+  .onethird{
+    width:100%;
+    margin:2px;
+  }
+
+
+}
+
+.eiland_count{
+  position: relative;
+  animation-name:blink;
+  animation-duration: 0.8s;
+}
+
+@keyframes blink {
+  0% { color:black }
+  50% { color:white }
+  100% { color:black }
+}
+
+.instruction{
+  position:fixed;
+  width:220px;
+  background-color:rgba(255, 255, 255, 0.9);
+  z-index: 20000;
+  padding:10px;
+  display:none;
+  border-radius: 5px;
+  animation-name:fade;
+  animation-duration: 2s;
+}
+
+.controlbutton{
+  background-color: white;
+  border:0px;
+}
+
+
+.onboarding{
+  position:fixed;
+  animation-name: fade;
+  animation-duration: 1s;
+  z-index: 100000;
+  top:20%;
+  right:30%;
+  left:5%;
+  bottom:10%;
+  background-color: white;
+  display:none;
+  border-radius:18px;
+  box-shadow: 0 2px 5px #000;
+  padding:10px;
+}
+
+@keyframes fade {
+  0% { opacity: 0 }
+  100% { opacity: 1 }
+}
+
+@media only screen and (max-width: 1000px) {
+.onboarding{
+      right: 5%;
+  }
+}
+.bottomcontrols{
+  position:absolute;
+  display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+  bottom:10px;
+  left: 0px;
+  right:0px;
+  height:50px;
+}
+
+.onboardingtext{
+  position:absolute;
+  display: flex;
+  bottom:50px;
+  left: 0px;
+  right:0px;
+  height:27%;
+  overflow-y:scroll;
+  padding:20px;
+
+}
+
+.onboardingtext::-webkit-scrollbar {
+    display: none;
+}
+
+.onboardingtext {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.onboardingimage{
+  position:absolute;
+  display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+  top:10px;
+  left: 10px;
+  right:10px;
+  height:55%;
+  overflow-y:scroll;
+}
+
+.onboardingimage::-webkit-scrollbar {
+    display: none;
+}
+
+.onboardingimage {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.circleholder{
+  position: relative;
+  left:auto;
+  right: auto;
+  width:120px;
+  height: 100%;
+  margin-left:10px;
+  margin-right:10px;
+  display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+}
+
+.menucircle{
+  width:15px;
+  height:15px;
+  border-radius:7.5px;
+  background-color:#DCDCDC;
+  margin-left: 5px;
+}
+
+.onboardingcontent{
+  animation-duration: 0.5s;
+  animation-name: fade;
+  position:absolute;
+  display:none;
+  top:0px;
+  bottom:0px;
+  left:0px;
+  right:0px;
+}
+
+#neweilandbutton{
+  background-color: red;
+}
+
+.imgcheck{
+  margin:5px;
+  position: relative;
+  border-radius: 4px;
+}
+
+.unammedeiland{
+  width: 100%;
+  height:95%;
+  background-image: url(images/onboarding/unnamedeiland.jpg);
+  background-size: 100%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 1000px) {
+.unammedeiland{
+  background-size: 200%;
+  background-position: center;  }
+}
+
+.board1{
+  width: 100%;
+  height:90%;
+  background-image: url(images/onboarding/poster.jpg);
+  background-size: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 1000px) {
+.board1{
+  height:100%;
+  background-size: 200%;
+  transform: rotate(90deg);
+  background-position: bottom;  }
+}
+
+.docsindex{
+  position:fixed;
+  left:0px;
+  top:130px;
+  width:28%;
+  float:left;
+  text-align:center;
+  vertical-align:top;
+}
+
+.docscontent{
+  position:fixed;
+  left:30%;
+  top:0px;
+  width:70%;
+  padding:3px;
+  height:100%;
+  overflow-y:scroll;
+
+}
+
+.onboardingtext::-webkit-scrollbar {
+    display: none;
+}
+
+.onboardingtext {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+@media only screen and (max-width: 1000px) {
+  .docsindex{
+    position:relative;
+    left:0px;
+    top:0px;
+    margin-top:130px;
+    width:100%;
+display:block;
+    text-align:center;
+    vertical-align:top;
+    right:0px;
+
+  }
+
+  .docscontent{
+    left:0px;
+    display:block;
+    position:relative;
+    width:100%;
+    padding:3px;
+  }
+}

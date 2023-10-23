@@ -1,0 +1,51 @@
+<div class="leaflet-control-container">
+  <div class="leaflet-top leaflet-right">
+    <div class="leaflet-control-layers leaflet-control leaflet-control-layers-expanded neweiland_button" onclick="addeiland(),close_gallery(1),open_gallery(2),resetform(),skipinstruction()" id="neweilandbutton">
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<div class="eilands_gallery" id="gallery2">
+
+  <div class="gallery_close" onclick="close_gallery(2),stopadding()">
+
+  </div>
+
+<div class="eiland_gallery">
+
+  <h2>Click on the map to add an Eiland</h2>
+
+<form id="eilandform">
+
+  <input style="display:none" type="text" name="y" value="" id="y" readonly>
+
+  <input style="display:none" type="text" name="x" value="" id="x" readonly>
+
+  <div class="column half">
+
+  <label for="name">Name:</label>
+  <input type="text" name="name" id="name">
+
+    <label for="moat_situation">Moat Preservation:</label>
+    <select name="moat_situation" id="moat_situation" required>
+      <option value="Unknown">I don't know!</option>
+      <option value="Complete">Complete</option>
+      <option value="Incomplete">Incomplete</option>
+      <option value="Disappeared">Disappeared</option>
+    </select>
+</div><br>
+
+
+<button name="button" class="form-container btn" onclick="submiteiland(),stopadding(),close_gallery(2)">Confirm!</button>
+<button type="button" name="button" class="form-container btn cancel" onclick="stopadding(),close_gallery(2)">Cancel</button><br><br><br>
+<br><br><br><br>
+</form>
+
+</div>
+
+
+</div>

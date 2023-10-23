@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'Baskerville MT Std';
+    src: url('BaskervilleMTStd-Regular.eot');
+    src: url('BaskervilleMTStd-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BaskervilleMTStd-Regular.woff2') format('woff2'),
+        url('BaskervilleMTStd-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DiodrumArabic';
+    src: url('DiodrumArabic-Light.eot');
+    src: url('DiodrumArabic-Light.eot?#iefix') format('embedded-opentype'),
+        url('DiodrumArabic-Light.woff2') format('woff2'),
+        url('DiodrumArabic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baskerville MT Std';
+    src: url('BaskervilleMTStd-Italic.eot');
+    src: url('BaskervilleMTStd-Italic.eot?#iefix') format('embedded-opentype'),
+        url('BaskervilleMTStd-Italic.woff2') format('woff2'),
+        url('BaskervilleMTStd-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DiodrumArabic';
+    src: url('DiodrumArabic-Medium.eot');
+    src: url('DiodrumArabic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('DiodrumArabic-Medium.woff2') format('woff2'),
+        url('DiodrumArabic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Franklin Gothic Demi';
+    src: url('FranklinGothic-DemiItalic.eot');
+    src: url('FranklinGothic-DemiItalic.eot?#iefix') format('embedded-opentype'),
+        url('FranklinGothic-DemiItalic.woff2') format('woff2'),
+        url('FranklinGothic-DemiItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: url('FranklinGothic-HeavyItalic.eot');
+    src: url('FranklinGothic-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('FranklinGothic-HeavyItalic.woff2') format('woff2'),
+        url('FranklinGothic-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DiodrumArabic';
+    src: url('DiodrumArabic-Regular.eot');
+    src: url('DiodrumArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DiodrumArabic-Regular.woff2') format('woff2'),
+        url('DiodrumArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: url('FranklinGothic-Medium.eot');
+    src: url('FranklinGothic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('FranklinGothic-Medium.woff2') format('woff2'),
+        url('FranklinGothic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: url('FranklinGothic-MediumItalic.eot');
+    src: url('FranklinGothic-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('FranklinGothic-MediumItalic.woff2') format('woff2'),
+        url('FranklinGothic-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Franklin Gothic Medium Cond';
+    src: url('FranklinGothic-MediumCond.eot');
+    src: url('FranklinGothic-MediumCond.eot?#iefix') format('embedded-opentype'),
+        url('FranklinGothic-MediumCond.woff2') format('woff2'),
+        url('FranklinGothic-MediumCond.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: url('FranklinGothic-Heavy.eot');
+    src: url('FranklinGothic-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('FranklinGothic-Heavy.woff2') format('woff2'),
+        url('FranklinGothic-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

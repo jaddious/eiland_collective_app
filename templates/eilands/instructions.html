@@ -1,0 +1,53 @@
+<div class="instruction" id="instruction1">
+  <span class="small"><span>Change baselayers here to see historical maps and satellite images</span><br>
+  <span onclick="skipinstruction()" >Skip</span><span onclick="instruction2()" style="float:right;text-decoration: underline;">Next</span></span>
+
+</div>
+
+<div class="instruction" id="instruction2">
+  <span class="small"><span>Help us find new Eilands!</span><br>
+  <span onclick="skipinstruction()" >Skip</span><span onclick="instruction3()" style="float:right;text-decoration: underline;">Next</span></span>
+
+</div>
+
+<div class="instruction" id="instruction3">
+  <span class="small"><span>Discover and help edit Eiland information!</span><br>
+  <span style="text-decoration: underline;" onclick="skipinstruction()" >Finish</span></span>
+
+</div>
+
+<script type="text/javascript">
+function instruction1(){
+  instruction=document.getElementById("instruction1");
+  instruction.style.display = "block";
+  rect=document.querySelector('[title="Layers"]').getBoundingClientRect()
+  height=(rect.bottom-rect.top)/2
+  instruction.style.left = (rect.left-250)+'px';
+  instruction.style.top = (rect.top-height)+'px';
+}
+
+function instruction2(){
+  document.getElementById("instruction1").style.display = "none";
+  instruction=document.getElementById("instruction2");
+  instruction.style.display = "BLOCK";
+ rect=document.getElementById("neweilandbutton").getBoundingClientRect()
+ inst_rect=instruction.getBoundingClientRect()
+ height=(inst_rect.bottom-inst_rect.top)/2
+ instruction.style.left = (rect.left-250)+'px';
+ instruction.style.top = rect.top+'px';
+}
+
+function instruction3(){
+  instruction=document.getElementById("instruction3");
+  document.getElementById("instruction2").style.display = "none";
+  instruction.style.display = "block";
+  rect=document.getElementById("map_menu").getBoundingClientRect()
+  instruction.style.left = (rect.right/2-125)+'px';
+  instruction.style.top = (rect.top-90)+'px';
+}
+
+function skipinstruction(){
+  document.getElementById("instruction1").style.display = "none";
+  document.getElementById("instruction2").style.display = "none";
+  document.getElementById("instruction3").style.display = "none";}
+</script>

@@ -1,0 +1,21 @@
+<script type="text/javascript">
+
+var confirmed_eiland = L.icon({
+iconUrl: "{{ url_for('static', filename='/Eilands/styles/images/marker-icon.png') }}",
+iconSize: [25,41],
+iconAnchor: [12.5, 41],
+shadowUrl: "{{ url_for('static', filename='/Eilands/styles/images/marker-shadow.png') }}",
+shadowSize: [35, 41],
+shadowAnchor: [12.5, 41]
+});
+
+var unconfirmed_eiland = L.icon({
+iconUrl: "{{ url_for('static', filename='/Eilands/styles/images/marker-icon2.png') }}",
+iconSize: [25,41],
+iconAnchor: [12.5, 41],
+shadowUrl: "{{ url_for('static', filename='/Eilands/styles/images/marker-shadow.png') }}",
+shadowSize: [35, 41],
+shadowAnchor: [12.5, 41]
+});
+
+</script>

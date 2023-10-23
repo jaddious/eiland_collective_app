@@ -1,0 +1,514 @@
+id,Name,Adress,MOAT SITUATION,OMD,File link,Water  Area (SQM),Map Of Index,x,y
+1,De Knok,Egelantierstraat- Bissegem,Complete,CLOSED,/001 - De Knok,3034,Popp Remastered,3.231963577,50.83042679
+2,Hoeve Sobry,Seringlaan 8500,Disappeared,X,,6312,Popp Remastered,3.289220022,50.82474786
+3,Klessenaere,Firmin Deprezlaan 8500,Disappeared,X,,5551,Popp Remastered,3.284471855,50.82305282
+4,Blauwe Hoeve,Emmanuel Vi�rinwandeling- Kortrijk,Complete,CLOSED,/004 - Blauwe Hoeve,8829,Popp Remastered,3.271687694,50.81664531
+5,Goed Ter Bede,12- Guldensporenpad- Kortrijk,Complete,CLOSED,/005 - Goed Ter Bede Kasteel van Surmont,11529,Popp Remastered,3.304737139,50.82274241
+6,Goed te Cattebeke ,Oudenaardsesteenweg- Zwevegem EVOLIS,Complete,OPEN,/006 - Goed te Cattebeke 2 Bar Botaniek,8788,Popp Remastered,3.312152792,50.81753299
+7,Kasteel van Marke,Kasteeldreef- Marke 8510,Incomplete,X,/007 - Kasteel van Marke,,Satellite,3.241815686,50.82086353
+8,Heerlijkheid van Heule ,53- Zeger van Heulestraat- Heule,Complete,OPEN,/008 - Heerlijkheid van Heule,14881,Popp Remastered,3.238008945,50.84637287
+9,Vierschaar ten Akker,9 Vierschaar ten Akker ,Complete,CLOSED,/009 - Vierschaar ten Akker _ Wilderness,10049,Popp Remastered,3.282760307,50.82541051
+10,,Athena campus Heule- 10- Guido Gezellelaan- Heule 8501,Disappeared,X,,3495,Popp Remastered,3.240274876,50.83310333
+11,De Blauwpoorte,Moorseelsestraat- Heule,Complete,CLOSED,,9816,Popp Remastered,3.243933454,50.83431368
+12,,Kransvijver- Heule 8501,Disappeared,X,/011 - De Blauwpoorte,6154,Popp Remastered,3.230954213,50.83904473
+13,Ter Mote (next to the parc),Izegemsestraat- Heule 8501,Incomplete,X,/013 - Ter Mote,10879,Popp Remastered,3.253254116,50.84853289
+14,,Kongostraat- Kuurne,Disappeared,X,,6038,Popp Remastered,3.265533056,50.84944179
+15,,Kongostraat- Kuurne,Disappeared,X,,5471,Popp Remastered,3.262192371,50.85013801
+16,,Tuur matras- 2- Noordlaan- Kuurne,Disappeared,X,,3392,Popp Remastered,3.259240891,50.8565162
+17,Chateau de Madame Piers,Nieuwenhuyse- Sint-Pieter- Kuurne,Disappeared,X,,13896,Popp Remastered,3.277711963,50.8555539
+18,Hoeve Vandewalle,168- Boomgaardstraat- Kuurne,Complete,CLOSED,/18 - Hoeve Vandewalle,9940,Popp Remastered,3.271565751,50.85256449
+19,,Industrielaan- Heule- Kuurne,Disappeared,X,,4260,Popp Remastered,3.255705603,50.85762181
+20,,Condruzenstraat- Kuurne,Incomplete,X,,4054,Popp Remastered,3.266295252,50.85202187
+21,,Harelbekestraat- Kuurne,Disappeared,X,,6329,Popp Remastered,3.297123617,50.85123353
+22,Groene Long,Verbindingsweg- Kuurne,Complete,CLOSED,/022 - Groene Long,5395,Popp Remastered,3.294415391,50.85617838
+23,Le coq Harlembois,Waterzuivering Aquafin Harelbeke- Kortrijksesteenweg- Harelbeke 8530,Incomplete,X,/023 - Le Coq dIncompleteHarlembois,20745,Popp Remastered,3.288463781,50.84285782
+24,Goed t Halle,26- Hazelaarsdreef- Harelbeke 8530,Disappeared,X,,14134,Popp Remastered,3.309302523,50.8407483
+25,Kasteel van Maekere,Harelbeke 8530,Incomplete,X,/025 - Kasteel van Maekere,11909,Popp Remastered,3.293896449,50.83644704
+26,,14- Tuinbouwstraat- Harelbeke 8530,Disappeared,X,,7769,Popp Remastered,3.290750367,50.83741998
+27,,55- Venetielaan- Harelbeke 8530,Disappeared,X,,9389,Popp Remastered,3.301777873,50.83522828
+28,,103- Berkenlaan- Harelbeke 8530,Disappeared,X,,9901,Popp Remastered,3.29757769,50.83912001
+29,,Kollegelaan- Harelbeke 8530,Disappeared,X,,5748,Popp Remastered,3.300756207,50.84024651
+30,,57- Dennenlaan- Harelbeke 8530,Disappeared,X,,7016,Popp Remastered,3.304713135,50.84334935
+31,,Texaco- 58- Venetielaan- Harelbeke 8530,Disappeared,X,,5322,Popp Remastered,3.299393985,50.83353834
+32,,R8- Harelbeke 8530,Disappeared,X,,10068,Popp Remastered,3.293864016,50.83393779
+33,Het Goed te Gaver,Visserskaai- Stasegem- Harelbeke 8530,Disappeared,X,,9120,Popp Remastered,3.299588588,50.8277204
+34,Goed Incompletet Gehuchte / Massureel Hoeve,Hoevestraat 8500,Incomplete,X,,5299,Popp Remastered,3.29199907,50.8318381
+35,,Spoorbermstraat 8500,Incomplete,X,,7230,Popp Remastered,3.288804337,50.83208393
+36,,Schilderstraat 8500,Complete,X,,3817,Popp Remastered,3.281636458,50.83346665
+37,,Politieke Gevangenenstraat- Stasegem- Harelbeke 8530,Disappeared,X,,8270,Popp Remastered,3.308734931,50.83431674
+38,,Politieke Gevangenenstraat- Stasegem- Harelbeke 8530,Disappeared,X,,9693,Popp Remastered,3.302215729,50.83273944
+39,Hoeve Foulon,19- Acacialaan- Harelbeke 8530,Disappeared,X,,6143,Popp Remastered,3.307991052,50.83649191
+40,Hoeve Eeckhout,Hermelijnstraat- Stasegem- Harelbeke 8530,Incomplete,X,,11176,Popp Remastered,3.318795054,50.82998531
+41,Te Coralele Goed,Evolis- Evolis Business Park- Harelbeke 8530,Disappeared,X,,3342,Popp Remastered,3.309496744,50.82154206
+42,,Abdijkaai- Vlaanderenkaai- Begijnhof Sint-Elisabeth 8500,Disappeared,X,,7070,Popp Remastered,3.274258262,50.83363913
+43,,Athena De Wijzer campus Pottelberg- 4- Burgemeester Felix de Bethunelaan 8500,Disappeared,X,,8740,Popp Remastered,3.256005045,50.82074104
+44,Buitengoed Patersmote,Albert Servaeswandeling 8500,Complete,X,/044 - Buitengoed Patersmote,6163,Popp Remastered,3.244276495,50.82364467
+45,Goed t hoogte Mosschere,Anne Frankstraat 8500,Complete,X,,6818,Popp Remastered,3.25518616,50.81494993
+46,,Hof te Walle- Hoog Kortrijk 8500,Disappeared,X,,14608,Popp Remastered,3.272778985,50.81094413
+47,,E17- Hoog Kortrijk 8500,Disappeared,X,,9377,Popp Remastered,3.267548686,50.80618679
+48,Domein van Walle,Bruyningstraat 8500,Complete,X,,5250,Popp Remastered,3.260442875,50.80837355
+49,De Bethune,Groeningebosstraat- Marke 8510,Complete,X,/049 - DeBethune private house,6461,Popp Remastered,3.229193157,50.80538551
+50,Vierschaar ten Akker,Preshoekbos- Watervalstraat- Marke 8510,Incomplete,X,,5885,Popp Remastered,3.229668638,50.79892466
+51,Landhuis Delacroix,Sint-Anna 8500,Complete,X,/051 - Landhuis Delacroix,5512,Popp Remastered,3.248687909,50.79693781
+52,,Preshoekstraat- Marke 8510,Disappeared,X,,4269,Popp Remastered,3.226366682,50.79663727
+53,Hoeve Goed te Tollenaers,Gladiatorenstraat- Marke 8510,Incomplete,CLOSED,/053 - Arenastraat,10666,Popp Remastered,3.222562827,50.79707138
+54,,Sint-Margriete-Houtemlaan- Hoog Kortrijk 8500,Disappeared,X,,4857,Popp Remastered,3.279805549,50.8134311
+55,t Morinne Goed,Zwaluwenlaan 8500,Disappeared,X,,6157,Popp Remastered,3.300594669,50.8141321
+56,Ferme Soubry,Morinnestraat 8500,Incomplete,X,,8310,Popp Remastered,3.308070299,50.81304721
+58,,Kastanjeboomlaan 8500,Disappeared,X,,6468,Popp Remastered,3.283054675,50.81469957
+59,Ten Ackerpark,Andr� Devaerelaan 8500,Disappeared,CLOSED,/059 - Ten Ackerpark,5457,Popp Remastered,3.27779796,50.82035721
+60,Goed te Gorghem,VIVES - Campus Kortrijk- Etienne Sabbelaan- Hoog Kortrijk 8500,Incomplete,CLOSED,/060 - Goed te Gorghem Vives Innovation Center,8342,Popp Remastered,3.289051028,50.80516849
+61,,Goed Ten houte- 31- Ten Houtedreef 8500,Incomplete,X,,,Ferraris,3.291824672,50.7954017
+62,,Evangelieboomstraat- Zwevegem 8550,Incomplete,X,,5478,Popp Remastered,3.309179756,50.7954017
+63,Schellebrouck,Morinnestraat 8500,Incomplete,X,,1426,Popp Remastered,3.313142104,50.80578615
+64,Neer mon foie,32- Bad Godesberglaan 8500,Incomplete,X,,,Ferraris,3.306960841,50.80361596
+65,Lang Water Ferme,Q8- 216- Kortrijkstraat- Zwevegem 8550,Incomplete,X,,6404,Popp Remastered,3.310394876,50.81496662
+66,Ferme Coopens,Luipaardstraat- Zwevegem 8550,Disappeared,X,,6534,Popp Remastered,3.314172315,50.81725311
+67,Hoeve te Coucx ,30- Marionetten- Marke,Incomplete,OPEN,/067 - Hoeve Te Coucx Doerak,7115,Popp Remastered,3.261523121,50.80210419
+68,Ferme Delcour,111- Schonekeerstraat- Boerderij Vanfleteren- Lauwe- Menen 8930,Disappeared,X,,9053,Popp Remastered,3.199420701,50.80307225
+69,Ferme Nuyttens / Hoeve Delaere,Hoeve Delaere- Oudstrijderlaan- Lauwe- Menen 8930,Disappeared,X,,24952,Popp Remastered,3.196238531,50.79850137
+70,Ferme Vanneste,237- Lauwbergstraat- Lauwe- Menen 8930,Incomplete,CLOSED,,9272,Popp Remastered,3.205437895,50.79700202
+71,De Knock Menen,61- Spoorwegstraat- Lauwe- Menen 8930,Incomplete,X,,4558,Popp Remastered,3.199594274,50.7920648
+72,Ferme Lerouge / Het Huisartsenhuis,Tom Buyse- Lauwbergstraat- Lauwe- Menen 8930,Incomplete,X,,6504,Popp Remastered,3.201563235,50.79546353
+74,,165- Grote Molenstraat- Lauwe- Menen 8930,Incomplete,X,,8513,Popp Remastered,3.190191165,50.78777059
+75,,Beaulieustraat- Lauwe- Menen 8930,Incomplete,X,,8641,Popp Remastered,3.188742233,50.78630991
+76,,Larstraat- Lauwe- Menen 8930,Disappeared,X,,7492,Popp Remastered,3.184904521,50.78648322
+77,,206- Larstraat- Lauwe- Menen 8930,Complete,X,,8136,Popp Remastered,3.183964673,50.78769632
+78,,Sicoplan- Koningin Astridlaan- Lauwe- Menen 8930,Incomplete,X,,3348,Popp Remastered,3.184160475,50.79888514
+79,Hoeve en kapel,288- Dronckaertstraat- Lauwe- Menen 8930,Complete,CLOSED,,6515,Popp Remastered,3.183204774,50.77767598
+80,Dronckaertstraat,80- Oude Aalbeeksestraat- Lauwe- Menen 8930,Incomplete,CLOSED,,11165,Popp Remastered,3.203434998,50.78284978
+81,Kasteelhoeve,89- Rekkemstraat- Lauwe- Menen 8930,Incomplete,CLOSED,,7424,Popp Remastered,3.17613329,50.79218585
+84,,56- Cyriel Verschaevestraat- Marke 8510,Incomplete,X,,7268,Popp Remastered,3.238490555,50.78498928
+85,Het Armengoed,Ghellinckdreef- Bissegem,Incomplete,CLOSED,/085 - Het Armengoed,21468,Popp Remastered,3.223033632,50.82927829
+86,,R8- Bissegem 8501,Disappeared,X,,3650,Popp Remastered,3.227972157,50.81977165
+87,Hof te Bissegem (of ST Omaarsgoed),R8- Bissegem 8501,Disappeared,X,/087 - Hof te Bissegem (of ST Omaarsgoed),7806,Popp Remastered,3.229257927,50.81846088
+88,Leiedal ,Kruiskouter - Bissegem,Incomplete,OPEN,/088 - Leidal,7042,Popp Remastered,3.222799856,50.8165408
+89,Goed te Gomaers,Dappaardstraat- Bissegem 8501,Incomplete,X,/089 - Goed te Gomaers,10892,Popp Remastered,3.208539501,50.82890914
+90,Hoeve te Dappaert,Dappaardstraat- Bissegem 8501,Incomplete,X,/090 - Hoeve te Dappaert,7698,Popp Remastered,3.21210459,50.83062568
+91,,Gullegemsesteenweg- Bissegem 8501,Disappeared,X,,2935,Popp Remastered,3.216137231,50.83127167
+92,Klokhof,Masurestraat- Bissegem 8501,Disappeared,X,,20120,Popp Remastered,3.226397241,50.82957015
+93,Ter Houppie,Burgemeester Vantommestraat- Bissegem 8501,Incomplete,X,/093 - Ter Houppie,8282,Popp Remastered,3.226250794,50.83344472
+94,Goed te Zevenkamer,Ringlaan- Heule 8501,Disappeared,X,/412 - Goed te Zevenkamer,5396,Popp Remastered,3.228056978,50.84829259
+95,,93- Torrestraat- Gullegem- Wevelgem,Disappeared,X,,4710,Popp Remastered,3.215381148,50.85067602
+96,,53- Pijplap- Gullegem- Wevelgem,Disappeared,X,,7261,Popp Remastered,3.214258386,50.84725493
+97,Hoeve 't Goet te Walle,117- Heulestraat- Gullegem- Wevelgem,Incomplete,X,,12752,Popp Remastered,3.216227288,50.84362809
+98,t Goet te Wynckele,Dwarsschuur van t Goet te Wynckele- Peperstraat- Gullegem- Wevelgem,Incomplete,CLOSED,,9392,Popp Remastered,3.206057336,50.84371029
+99,Oude Pastorie,Gullegem- Wevelgem,Complete,CLOSED,/099 - Oude Pastorie Gullegem,5785,Popp Remastered,3.205796985,50.84125457
+100,,42- Tombroekdreef- Gullegem- Wevelgem,Incomplete,X,,6631,Popp Remastered,3.199516022,50.83080347
+102,,53- Vanneputstraat- Wevelgem,Incomplete,X,,5542,Popp Remastered,3.199450934,50.82603444
+103,,91- Bieststraat- Wevelgem 8501,Incomplete,X,,7108,Popp Remastered,3.20246124,50.82644558
+104,,1- Vanneputstraat- Wevelgem,Incomplete,X,,3337,Popp Remastered,3.195252778,50.82434872
+105,,150- Heerweg- Moorsele- Wevelgem,Incomplete,X,,4794,Popp Remastered,3.182010503,50.83396804
+106,,69- Schoonwater- Gullegem- Wevelgem,Incomplete,X,,8529,Popp Remastered,3.205135052,50.83340161
+107,,33- Vijverlaan- Gullegem- Wevelgem,Incomplete,X,,4939,Popp Remastered,3.215655025,50.83742774
+108,Bulscamphoeve,27- Hemelhofweg- Gullegem- Wevelgem,Complete,CLOSED,,4272,Popp Remastered,3.194615079,50.83999939
+109,,6- Incompletet Hoveke- Gullegem- Wevelgem,Disappeared,X,,5676,Popp Remastered,3.20695302,50.85268717
+110,,Winkelsestraat- Sint-Eloois-Winkel- Lendelede 8860,Disappeared,X,,7128,Popp Remastered,3.199486217,50.8822513
+111,,Lendelede 8860,Incomplete,X,,7820,Popp Remastered,3.20349248,50.88990451
+112,,Beiaardstraat- Lendelede 8860,Disappeared,X,,4505,Popp Remastered,3.222796291,50.88106019
+113,,Lendelede Burgemeester G.Dussartlaan- Heulsestraat- De Knok- Lendelede 8860,Disappeared,X,,5786,Popp Remastered,3.238969216,50.87441641
+114,,Kortrijksestraat- De Knok- Lendelede 8860,Disappeared,X,,4066,Popp Remastered,3.230274524,50.88069531
+115,,Recyclagepark IVIO Lendelede- 1- Langemuntelaan- De Knok- Lendelede 8860,Incomplete,X,,4263,Popp Remastered,3.23196959,50.88353878
+116,,Ingelmunstersestraat- Spoelewielen- Lendelede 8860,Incomplete,X,,1362.230762,Popp Remastered,3.240285385,50.8953386
+117,Rattenkasteel,Hula- 2- Wittestraat- Heule 8510,Complete,X,/117 - Klein Reinsakker Hula Restaurant,8945,Popp Remastered,3.239886439,50.84969337
+118,Goed te Grysperre,Grysperrestraat- Heule 8501,Incomplete,X,,15826,Popp Remastered,3.227725458,50.85906547
+119,De Oud Roteij,Vlasrootstraat- Heule 8501,Disappeared,X,/119 - De Oud Roterij,5227,Popp Remastered,3.225119534,50.85093977
+120,,Saey- Industrielaan- Heule 8501,Disappeared,X,,30093,Popp Remastered,3.247427827,50.8551025
+121,St. Joris-Bachterelst,Izegemsestraat- Sint-Katharina- Heule 8501,Disappeared,X,/121 - St Joris-Bachterelst,8398,Popp Remastered,3.243479456,50.86726451
+122,,Haantjesstraat- Lendelede,Complete,X,,7909,Popp Remastered,3.25982571,50.87536246
+123,,Sint-Katriensteenweg- Sint-Pieter- Kuurne,Disappeared,X,,3553,Popp Remastered,3.265550847,50.86093468
+124,,Molenput- Sint-Pieter- Kuurne,Disappeared,X,,3577,Popp Remastered,3.273052751,50.86504668
+125,,Papaversstraat- Sint-Pieter- Kuurne,Disappeared,X,,6661,Popp Remastered,3.276922154,50.8648224
+126,,Sint-Katriensteenweg- Kuurne,Incomplete,X,,,Popp Remastered,3.248572854,50.87037928
+127,t Erfgoed,Sint-Katriensteenweg- Kuurne,Disappeared,X,/127 - Incompletet Erfgoed,3089,Popp Remastered,3.254061089,50.86741403
+128,,Magerstraat- Sint-Katharina- Heule 8501,Incomplete,X,,4555,Popp Remastered,3.22920959,50.87026331
+129,Groot Reinsakker,Groenestraat- Heule 8501,Disappeared,X,/129 - Groot Reinsakker,8964,Popp Remastered,3.238273769,50.85542689
+131,,Heule Grijsperre- Mellestraat- Heule 8501,Incomplete,X,,,Ferraris,3.226569705,50.85537341
+132,,Vaernewyck- Sint-Katharina- Heule 8501,Disappeared,X,,2326.911616,Popp Remastered,3.236595081,50.86842477
+133,,Noen- Izegemsestraat- Heule Belgie / Belgique / Belgien,Disappeared,X,,3241.257374,Popp Remastered,3.240589566,50.87104449
+134,,Bessenlaan 8500,Disappeared,X,,4539,Popp Remastered,3.275051795,50.83782989
+136,,Koning Boudewijnstraat- Sint-Pieter- Kuurne,Disappeared,X,,3452,Popp Remastered,3.281513462,50.86208494
+137,,Rijksweg- Sint-Pieter- Bavikhove- Kuurne,Disappeared,X,,5557,Popp Remastered,3.285096751,50.86717665
+138,,Molenvang- Sint-Pieter- Kuurne,Disappeared,X,,3766,Popp Remastered,3.272662936,50.86690477
+139,,Sint-Katriensteenweg- Sint-Pieter- Kuurne,Incomplete,X,,8131,Popp Remastered,3.261560615,50.86403765
+140,,Pieter Vinckestraat- Kuurne,Incomplete,X,,6368,Popp Remastered,3.264106121,50.87122985
+141,,N36- Bavikhove- Kuurne,Disappeared,X,,6357,Popp Remastered,3.280769392,50.87335516
+142,,Asselstraat- Bavikhove- Harelbeke,Incomplete,X,,6461,Popp Remastered,3.298842481,50.87000651
+143,,Harelbeke 8530,Disappeared,X,,5924,Popp Remastered,3.298959966,50.85934111
+144,,Harelbeke 8530,Disappeared,X,,3413,Popp Remastered,3.300291461,50.85725224
+145,,Mipa Frost- 44- Europastraat- Bavikhove- Harelbeke,Incomplete,X,,7856,Popp Remastered,3.313802221,50.86999415
+146,Goed te Beaulieu,Sint-Jansstraat 128 Waregem,Incomplete,CLOSED,,7051,Popp Remastered,3.326588491,50.87655531
+147,,Doornhoutsevoetweg- Hulste- Harelbeke,Incomplete,X,,5123,Popp Remastered,3.302660739,50.88066946
+148,,Oostrozebeeksestraat- Hulste- Harelbeke,Incomplete,X,,28696,Popp Remastered,3.304050977,50.88593209
+149,,112-114- Hoogstraat- Bavikhove- Harelbeke,Incomplete,X,,9696,Popp Remastered,3.323573046,50.88546267
+150,,Helleput- Hulste- Harelbeke,Disappeared,X,,3136,Popp Remastered,3.308162947,50.88346144
+151,,2- Pontstraat- Beveren-Leie- Waregem,Complete,X,,4359,Popp Remastered,3.332012376,50.86796754
+152,,23- Spijkerlaan- Beveren-Leie- Harelbeke,Incomplete,X,,9711,Popp Remastered,3.33526279,50.86622508
+153,,Ringlaan- Harelbeke 8530,Incomplete,X,,9428,Popp Remastered,3.326510167,50.86235684
+154,,70- Lissebroek- Harelbeke 8530,Incomplete,X,,7887,Popp Remastered,3.336633447,50.86113327
+155,,142- Harelbekestraat- Deerlijk,Disappeared,X,,5607,Popp Remastered,3.3398447,50.85380354
+156,Goed te Gavere,21- Theo Nuyttenslaan- Deerlijk,Incomplete,CLOSED,,12202,Popp Remastered,3.330994173,50.84718973
+157,,64-66- Stationstraat- Deerlijk,Disappeared,X,,4496,Popp Remastered,3.351436541,50.85039167
+158,,18- Roterijstraat- Deerlijk,Incomplete,X,,5111,Popp Remastered,3.347109181,50.84976119
+159,t Gaverkasteel Deerlijk,Gaverkasteel- 24- Vercruysse de Solartstraat- Deerlijk,Incomplete,CLOSED,,6749,Popp Remastered,3.3538254,50.84611412
+160,,4- Kapel ter Rustestraat- Deerlijk,Disappeared,X,,5307,Popp Remastered,3.354451986,50.85151663
+161,,49- Beverenstraat- Deerlijk,Disappeared,X,,4822,Popp Remastered,3.349713429,50.85667129
+162,,19- Albertpad- Deerlijk,Disappeared,X,,10689,Popp Remastered,3.354863183,50.85967483
+163,,37- Pikkelstraat- Deerlijk,Disappeared,X,,4988,Popp Remastered,3.35503941,50.85922987
+164,,30- Wagenaarstraat- Beveren-Leie- Harelbeke,Incomplete,X,,6867,Popp Remastered,3.343369246,50.86166472
+165,,153- Spijkerlaan- Beveren-Leie- Deerlijk,Disappeared,X,,5648,Popp Remastered,3.350477081,50.86102203
+166,,51- Driesknoklaan- Deerlijk,Incomplete,X,,10594,Popp Remastered,3.363028381,50.8623692
+167,,141- Desselgemstraat- Deerlijk,Incomplete,X,,7481,Popp Remastered,3.368119392,50.86402529
+168,,44- Desselgemstraat- Deerlijk,Incomplete,X,,4071,Popp Remastered,3.370880286,50.86040406
+169,,260- Waregemstraat- Deerlijk,Incomplete,X,,7962,Popp Remastered,3.376695788,50.85620159
+170,,121- Vichtesteenweg- Deerlijk,Disappeared,X,,5450,Popp Remastered,3.376597883,50.84863619
+171,,Imagopackgroup- 66- Nijverheidslaan- Zone 4- Deerlijk,Disappeared,X,,7043,Popp Remastered,3.388757567,50.856387
+172,,Goed te Leers- 1- Geeststraat- Deerlijk,Disappeared,X,,3505,Popp Remastered,3.387171522,50.85925459
+173,,43- Ketsersstraat- Deerlijk,Disappeared,X,,3703,Popp Remastered,3.381160213,50.85930403
+174,,6- Hoekstraat- Waregem- Deerlijk,Incomplete,X,,8719,Popp Remastered,3.388757567,50.84927905
+175,,60- Harelbekestraat- Waregem,Complete,X,,7590,Popp Remastered,3.384978471,50.86692949
+176,,Treurnietstraat- Bavikhove- Harelbeke,Incomplete,X,,2290,Popp Remastered,3.310747614,50.8871303
+177,,1- Oostrozebeeksestraat- Hulste- Harelbeke,Incomplete,X,,14353,Popp Remastered,3.309122407,50.89617149
+178,Munkenhof,2-6- Munkenhofdreef- Waregem,Complete,CLOSED,/178 - Munkenhof,10088,Popp Remastered,3.342429367,50.89225633
+179,,107- Ter Lindenstraat- Dries- Desselgem- Waregem,Incomplete,X,,4720,Popp Remastered,3.352415581,50.8938002
+180,,7- Halewijnstraat- Spriete- Desselgem- Waregem,Disappeared,X,,11054,Popp Remastered,3.357643658,50.88274493
+181,,135- Gentseweg- Dries- Desselgem- Waregem,Disappeared,X,,5632,Popp Remastered,3.368217296,50.88474619
+182,,71-75- Opstalstraat- Dries- Desselgem- Waregem,Incomplete,X,,7043,Popp Remastered,3.364418619,50.89130528
+183,,Opstalstraat- Engel- Desselgem- Waregem,Disappeared,X,,4997,Popp Remastered,3.371585196,50.89418307
+184,,12- Kwadestraat- Krekel- Desselgem- Waregem,Disappeared,X,,3504,Popp Remastered,3.372760044,50.88412853
+185,,93- Sprietestraat- Spriete- Desselgem- Waregem,Disappeared,X,,7337,Popp Remastered,3.366729154,50.87798851
+186,,100- Waregemstraat- Ten Rade- Desselgem- Waregem,Disappeared,X,,9942,Popp Remastered,3.371467711,50.87944637
+187,,12- Leemputstraat- Krekel- Desselgem- Waregem,Incomplete,X,,7619,Popp Remastered,3.377537762,50.88086713
+188,,229- Desselgemseweg- Te Hoger Damme- Waregem,Incomplete,X,,5893,Popp Remastered,3.381199374,50.88058298
+189,,93- Meelstraat- Leemput- Desselgem- Waregem,Incomplete,X,,6127,Popp Remastered,3.37747902,50.87450427
+190,,49- Meelstraat- Leemput- Desselgem- Waregem,Incomplete,X,,4620,Popp Remastered,3.374463575,50.87287327
+191,,163- Sprietestraat- Spriete- Desselgem- Waregem,Incomplete,X,,4666,Popp Remastered,3.367022867,50.87522091
+192,,81- Spitaalstraat- Waregem,Incomplete,X,,4638,Popp Remastered,3.391616366,50.87219366
+193,Hoeve sint Jans,"Spitaalstraat 84, Waregem",Complete,CLOSED,,7983,Popp Remastered,3.394396841,50.87366407
+194,,Caseelstraat- Waregem,Disappeared,X,,7188,Popp Remastered,3.402307489,50.87742018
+195,,16- Sint-Jozefsstraat- Gaverke- Waregem,Disappeared,X,,4241,Popp Remastered,3.422201594,50.88527738
+196,,19- Vijfseweg- Waregem,Incomplete,X,,7108,Popp Remastered,3.423944286,50.89468945
+197,,Declercq Stortbeton- 97- Lindestraat- Zone 5 Snepbeek- Waregem,Disappeared,X,,4007,Popp Remastered,3.407985924,50.89488706
+198,,45- Kuipersstraat- Biest- Waregem,Disappeared,X,,3953,Popp Remastered,3.426489791,50.87665415
+199,,Kasteel van Potegem- 54-58- Zuiderlaan- Waregem,Complete,X,,20740,Popp Remastered,3.436554329,50.8832885
+200,,44- Holstraat- Waregem,Disappeared,X,,6575,Popp Remastered,3.434615828,50.88493149
+201,Kasteel van Potegem,Hoek Zuiderlaan-Holstraat,Disappeared,CLOSED,,5124,Popp Remastered,3.43827744,50.88251021
+202,,24- Blauwpoortstraat- Biest- Waregem,Incomplete,X,,4778,Popp Remastered,3.436143131,50.87145227
+203,,81- Industrielaan- Biest- Waregem,Disappeared,X,,3700,Popp Remastered,3.421477104,50.87158819
+204,,25- Vichtseweg- Waregem,Disappeared,X,,9124,Popp Remastered,3.414212623,50.8667194
+205,,Ragolle Rugs- 1- Maalbeekstraat- Zone 2 Vijverdam- Waregem,Disappeared,X,,4718,Popp Remastered,3.432324873,50.86549595
+206,,86- Schaagstraat- Anzegem 8570,Incomplete,X,,9691,Popp Remastered,3.435751515,50.85831523
+207,Goed te Nieuwenhove ,16- Platanendreef - Waregem,Complete,OPEN,,20169,Popp Remastered,3.403071141,50.86246807
+208,,Goed te Wulfskerke- 15- Kleine Leiestraat- Heirweg- Anzegem 8570,Incomplete,X,,9622,Popp Remastered,3.444504138,50.85701739
+209,,169- Vichtsesteenweg- Heirweg- Anzegem 8570,Incomplete,X,,5132,Popp Remastered,3.44141037,50.84046369
+210,,22- Materzeelstraat- Ingooigem- Anzegem 8570,Incomplete,X,,4531,Popp Remastered,3.440999173,50.83812666
+211,,1- Landergemweg- Ingooigem- Anzegem 8570,Complete,X,,4801,Popp Remastered,3.442017375,50.82844343
+212,,106- Sint-Antoniusstraat- Vichte- Anzegem 8570,Incomplete,X,,2307,Popp Remastered,3.424394645,50.83596264
+213,,37- Goed Ter Motestraat- Ingooigem- Anzegem 8570,Incomplete,X,,2772,Popp Remastered,3.424649195,50.82991521
+214,,15- Stijn Streuvelsstraat- Ingooigem- Anzegem 8570,Disappeared,X,,8612,Popp Remastered,3.436906783,50.81671699
+215,,49- Vossestraat- Ingooigem- Anzegem 8570,Incomplete,X,,4088,Popp Remastered,3.413625198,50.82243214
+216,,Diesveldstraat- Otegem- Zwevegem 8553,Incomplete,X,,5247,Popp Remastered,3.41198041,50.81717472
+217,,Vichtestraat- Otegem- Zwevegem 8553,Incomplete,X,,5024,Popp Remastered,3.395708756,50.81879531
+218,,Wagenmakerstraat- Otegem- Zwevegem 8553,Incomplete,X,,6340,Popp Remastered,3.401739646,50.81387152
+221,,Het Ganzenhof- 2- Bosstraat- Avelgem 8580,Incomplete,X,,3435,Popp Remastered,3.446658027,50.78372367
+222,,2- Stijn Streuvelslaan- Avelgem 8580,Disappeared,X,,4135,Popp Remastered,3.443172643,50.77235749
+223,,31- Achterdriesstraat- Avelgem 8580,Incomplete,X,,2446,Popp Remastered,3.428447873,50.78480072
+224,,91- Heestertstraat- Outrijve- Avelgem 8582,Complete,X,,6426,Popp Remastered,3.424707938,50.7618184
+226,,Kasteel van Bossuit- 3- Bouvriestraat- Bossuit- Avelgem 8583,Incomplete,X,,7358,Popp Remastered,3.401720065,50.7486381
+228,,Poeldries- Moen- Zwevegem 8552,Incomplete,X,,10206,Popp Remastered,3.403501919,50.75638074
+229,,Kasteeldreef- Helkijn- Spiere-Helkijn 8587,Disappeared,X,,23832,Popp Remastered,3.377204889,50.73883718
+230,,Stationsstraat- Helkijn- Spiere-Helkijn 8587,Disappeared,X,,11437,Popp Remastered,3.380788177,50.74187308
+233,Driehoven,Driehoven- Kooigem 8510,Disappeared,X,/233 - Driehoven,3721,Popp Remastered,3.351847738,50.7392585
+234,t Ridderhof,Kooigembosstraat- Kooigem 8510,Incomplete,X,/234 - t Ridderhof,2932,Popp Remastered,3.342116074,50.74148896
+235,,12- Kooigemsestraat- Kooigem 8510,Incomplete,X,,4213,Popp Remastered,3.333794229,50.73899828
+236,,Ten Walledreef- Kooigem- Sint-Denijs- Zwevegem 8554,Incomplete,X,,3193,Popp Remastered,3.329936809,50.74967878
+237,Goed te Tollardrie,Geitenbergstraat- Kooigem 8510,Incomplete,X,/237 - Goed te Tollardrie,2371,Popp Remastered,3.324767475,50.74936906
+238,Ter Scueren-St-Antoniushof,Doornikserijksweg- Kooigem 8510,Disappeared,X,/238 - Ter Scueren-St-Antoniushof,5474,Popp Remastered,3.318344969,50.74549113
+240,No name,Slots Decoration- 432- Doornikserijksweg- Kooigem 8510,Complete,X,/240 - No Name,10852,Popp Remastered,3.326608072,50.73578869
+243,,In de Deugdzonde- 2- Priesterstraat- Sint-Denijs- Zwevegem 8554,Incomplete,X,,4404,Popp Remastered,3.327117173,50.7620785
+244,Goed te Cattebeke,Konijntjespad- Bellegem 8510,Incomplete,X,/244 - Goed te Cattebeke,4496,Popp Remastered,3.306772709,50.76098855
+245,,Brucqweg- Sint-Denijs- Zwevegem 8554,Incomplete,X,,8082,Popp Remastered,3.348616904,50.760939
+246,,Brucqweg- Sint-Denijs- Zwevegem 8554,Incomplete,X,,5716,Popp Remastered,3.345483974,50.76116195
+247,,Marquettestraat- Sint-Denijs- Zwevegem 8554,Incomplete,X,,10398,Popp Remastered,3.35190648,50.77073529
+248,,Kanteinstraat- Sint-Denijs- Zwevegem 8554,Incomplete,X,,8104,Popp Remastered,3.331542436,50.77932858
+249,,Comminnestraat- Moen- Zwevegem 8552,Incomplete,X,,2784,Popp Remastered,3.36710119,50.78699187
+250,,Kwatanenstraat- Moen- Zwevegem 8552,Incomplete,X,,5026,Popp Remastered,3.363439578,50.79303247
+251,Goed te Moen,Moenplaats- Moen- Zwevegem 8552,Complete,CLOSED,/251 - Goed te Moen,10253,Popp Remastered,3.400310246,50.76947217
+252,Ouf Hof van Bellegem,Steenlanderpad- Bellegem 8510,Incomplete,X,/252 - Ouf Hof van Bellegem,11571,Popp Remastered,3.2935165,50.76793656
+253,Goed te Brasseye,4 - Grotestraat - Bellegem,Incomplete,OPEN,/253 - Goed te Brasseye,11171,Popp Remastered,3.285410044,50.75666564
+254,Goed te Deurwaerders,Grotestraat- Bellegem 8510,Incomplete,X,/254 - Goed te Deurwaerders,2452,Popp Remastered,3.291362611,50.75385368
+256,Hof van Mortagne,Bellegem 8510,Disappeared,X,/256 - Hof van Mortagne,4887,Popp Remastered,3.276814068,50.76962078
+257,,Tombroekstraat- Rollegem 8510,Incomplete,X,,7900,Popp Remastered,3.264341091,50.76406017
+258,,Tombroekstraat- Rollegem 8510,Disappeared,X,,6517,Popp Remastered,3.263205404,50.76191749
+259,Hof van Rollegem,Rollegemplaats- Rollegem 8510,Incomplete,CLOSED,/259 - Hof van Rollegem,7956,Popp Remastered,3.263910313,50.76910066
+260,Dadecotboghaert,Hoevedreef- Rollegem 8510,Incomplete,X,/260 - Dadecotboghaert,5293,Popp Remastered,3.269902041,50.75977471
+261,Goed te Tremaars,Einde Munkendoornstraat- Rollegem 8510,Incomplete,X,/261 - Goed te Tremaars,5096,Popp Remastered,3.272858744,50.75396517
+262,s Costers,Tombroekstraat- Rollegem 8510,Complete,X,/262 - s Costers,4213,Popp Remastered,3.26577049,50.75754512
+263,,29- Schreiboomstraat- Rollegem 8510,Complete,X,,7567,Popp Remastered,3.251476497,50.76508813
+264,Steenbakkershoeve,Oude Aalbeeksestraat- Rollegem 8510,Disappeared,X,,6188,Popp Remastered,3.256743736,50.76782511
+265,,Aalbeeksestraat- Rollegem 8510,Incomplete,X,,3609,Popp Remastered,3.253493321,50.77279089
+266,Goed te Bottelrie,Oude Bellegemsestraat- Rollegem 8510,Incomplete,X,/266 - Goed te Bottelrie,2455,Popp Remastered,3.267434859,50.77419013
+267,,Rollegemseweg- Rollegem 8510,Incomplete,X,,5436,Popp Remastered,3.263381631,50.78112381
+268,t Goed de Queeke,Manpad 8500,Disappeared,X,/268 - t Goed de Queeke,3450,Popp Remastered,3.284391842,50.79181946
+269,Sterreberg,Blauwkasteelstraat- Aalbeke 8511,Disappeared,X,/269 - Sterreberg,3762,Popp Remastered,3.217112173,50.77137923
+270,Jezuietengoed,Lauwsestraat- Aalbeke 8511,Incomplete,CLOSED,/270 - Jezu?etengoed,5059,Popp Remastered,3.22619767,50.77945239
+271,Heerlijkheid van Heule - Aalbeke,Lauwsestraat- Aalbeke 8511,Disappeared,X,/271 - Heerlijkheid van Heule - Aalbeke,7371,Popp Remastered,3.220362588,50.78177998
+272,,Doomanstraat- Aalbeke 8511,Disappeared,X,,4184,Popp Remastered,3.218756961,50.77831332
+273,,Klarenhoek- Aalbeke 8511,Disappeared,X,,6344,Popp Remastered,3.228351559,50.79144813
+274,Goed te Nieuzenhove,E403- Aalbeke 8511,Complete,CLOSED,/274 - Goed te Nieuzenhove,8565,Popp Remastered,3.222398992,50.793181
+276,Braye,2- Bosweg- Paradijs- Rekkem- Menen 8930,Complete,CLOSED,,5659,Popp Remastered,3.18977736,50.76870437
+277,,1- Bosweg- Paradijs- Rekkem- Menen 8930,Complete,X,,3312,Popp Remastered,3.185019223,50.76752789
+278,,Brun Cornet- Rekkem- Menen 8930,Complete,X,,3500,Popp Remastered,3.184157667,50.77187455
+279,Bas Fosses,Castertstraat- Rekkem- Menen 8930,Incomplete,CLOSED,,4300,Popp Remastered,3.194437593,50.76062935
+282,Tanja,280- Moeskroenstraat- Rekkem- Menen 8930,Incomplete,CLOSED,,4025,Popp Remastered,3.16395027,50.77187455
+283,Ter Triest ,Moeskroenstraat - Menen,Incomplete,OPEN,,4332,Popp Remastered,3.163029972,50.78160665
+284,,Murissonstraat- Rekkem- Menen 8930,Disappeared,X,,3692,Popp Remastered,3.155236809,50.78043049
+285,Steenland,Steenland- Rekkemstraat- Rekkem- Menen 8930,Disappeared,CLOSED,,7647,Popp Remastered,3.168630084,50.78684332
+286,Pilfour,Pont Neufstraat- Menen 8930,Incomplete,CLOSED,,1570,Popp Remastered,3.152632561,50.79262401
+287,Basse Cense,1- Roterijstraat- Menen 8930,Incomplete,CLOSED,,2087,Popp Remastered,3.147345742,50.79095301
+288,,400- Wervikstraat- Wervik- Menen 8940,Incomplete,X,,4047,Popp Remastered,3.099216107,50.78294373
+289,,380- Wervikstraat- Wervik- Menen 8940,Incomplete,X,,2935,Popp Remastered,3.101017541,50.78363701
+290,,Lageweg- Menen 8930,Incomplete,X,,4618,Popp Remastered,3.08917115,50.78955427
+291,,Hoogpoortweg- Menen 8930,Incomplete,X,,5330,Popp Remastered,3.082278705,50.79880003
+292,,Pekkestraat- Geluwe- Menen 8940,Incomplete,X,,6242,Popp Remastered,3.107962068,50.81914725
+293,,156- Buurtweg- Menen 8930,Disappeared,X,,2745,Popp Remastered,3.115623594,50.80999556
+294,,Menen Barri�re- Bruggestraat- Menen 8930,Incomplete,X,,4343,Popp Remastered,3.117618311,50.82082272
+295,,Zandweg- Menen 8930,Disappeared,X,,4791,Popp Remastered,3.119658362,50.82143847
+296,,Schendekouterstraat- Geluwe- Menen 8940,Incomplete,X,,5517,Popp Remastered,3.107758063,50.82328569
+298,,63- Dadizelestraat- Moorsele- Wevelgem,Incomplete,X,,12223,Popp Remastered,3.136069442,50.84262694
+299,,62- Dadizelestraat- Moorsele- Wevelgem,Complete,X,,4555,Popp Remastered,3.139220188,50.84384356
+300,,44- Ter Kommerenweg- Moorsele- Wevelgem,Incomplete,X,,2858,Popp Remastered,3.126549202,50.84039402
+301,,64- Secretaris Vanmarckelaan- Moorsele- Wevelgem,Incomplete,X,,15475,Popp Remastered,3.173029921,50.84193551
+302,,Moorsele- Wevelgem,Incomplete,X,,5095,Popp Remastered,3.162153721,50.82801689
+303,,15- Ketelstraat- Moorsele- Wevelgem,Incomplete,X,,9784,Popp Remastered,3.135988827,50.82774571
+304,,16- Ketelstraat- Moorsele- Wevelgem,Incomplete,X,,5772,Popp Remastered,3.140162808,50.82453659
+305,,27-29- Drieslaan- Moorsele- Wevelgem,Disappeared,X,,11459,Popp Remastered,3.181377881,50.84842644
+306,,236A- Warandestraat- Moorsele- Wevelgem,Disappeared,X,,4461,Popp Remastered,3.168021144,50.82955357
+307,,73- Zuidhoekstraat- Moorsele- Wevelgem,Disappeared,X,,5319,Popp Remastered,3.175629714,50.83015617
+308,,1- Marremstraat- Wevelgem,Incomplete,X,,6146,Popp Remastered,3.175701268,50.82613364
+309,,31- Ezelstraat- Wevelgem,Incomplete,X,,2748,Popp Remastered,3.161700546,50.82191489
+310,,222- Wijnbergstraat- Wevelgem,Incomplete,X,,7338,Popp Remastered,3.157216498,50.81838892
+311,,Rynsackerstraat- Wevelgem- Menen,Incomplete,X,,8182,Popp Remastered,3.149154754,50.81534492
+312,Het Eiland,Groenestraat- Menen 8930,Complete,X,/312 - Het Eiland,3383,Popp Remastered,3.145624759,50.80799029
+313,,Groenestraat- Menen 8930,Incomplete,X,,7412,Popp Remastered,3.143501992,50.80758334
+314,,Waterzuiveringsstation Aquafin Menen- Kortrijkstraat- Menen 8930,Incomplete,X,,5908,Popp Remastered,3.142428683,50.79742352
+315,,62- Visserijstraat- Wevelgem,Incomplete,X,,6730,Popp Remastered,3.165063581,50.79966972
+316,,42_1- Toekomststraat- Wevelgem,Disappeared,X,,6300,Popp Remastered,3.177847886,50.81198424
+317,,Kortewaagstraat- Menen 8930,Disappeared,X,,4768,Popp Remastered,3.127259246,50.82006153
+318,,Paddestraat- Moorsele- Menen,Disappeared,X,,2430,Popp Remastered,3.136752069,50.81903688
+319,,4- Ter Poperenweg- Moorsele- Wevelgem,Incomplete,X,,10897,Popp Remastered,3.144074423,50.81997112
+320,,Kortewaagstraat- Menen 8930,Disappeared,X,,4397,Popp Remastered,3.127736272,50.82280387
+321,,169- Ieperstraat- Moorsele- Wevelgem,Disappeared,X,,5890,Popp Remastered,3.133603696,50.83121071
+322,,110A- Ledegemstraat- Moorsele- Wevelgem,Disappeared,X,,2557,Popp Remastered,3.153281031,50.84609222
+323,,15- Driemasten- Gullegem- Wevelgem,Incomplete,X,,5956,Popp Remastered,3.198288464,50.84669461
+324,,18- Bellegemstraat- Zwevegem 8550,Incomplete,X,,20456,Popp Remastered,3.342941618,50.80103813
+325,,Deerlijkstraat- Kappaert- Zwevegem 8550,Disappeared,X,,8577.089973,Popp Remastered,3.343458227,50.82250997
+326,,Lettenhofstraat- Knokke- Zwevegem 8550,Incomplete,X,,5057,Popp Remastered,3.352626957,50.80223307
+327,,23- Feys Hoevestraat- Kappaert- Zwevegem 8550,Incomplete,X,,11069,Popp Remastered,3.362393003,50.81868919
+328,,Beekstraat- Zwevegem 8550,Disappeared,X,,7802,Popp Remastered,3.325513328,50.80347831
+329,,Beneluxlaan- Harelbeke 8530,Disappeared,X,,7654,Popp Remastered,3.323957615,50.8254466
+330,,7- Blokkestraat- Harelbeke 8530,Disappeared,X,,4321.552362,Popp Remastered,3.330159724,50.82473427
+331,,Bekaert- 333- Blokkestraat- Zwevegem 8550,Disappeared,X,,6808,Popp Remastered,3.338828581,50.82540208
+332,,Blokkestraat- Zwevegem 8550,Disappeared,X,,9557,Popp Remastered,3.334740828,50.82175128
+333,,Sint-Denijsstraat- Zwevegem 8550,Disappeared,X,,4274,Popp Remastered,3.34601739,50.79104206
+334,,Kreupelstraat- Zwevegem 8550,Disappeared,X,,2066,Popp Remastered,3.332217471,50.79229462
+335,,34B- Blokkestraat- Kappaert- Zwevegem 8550,Disappeared,X,,4242,Popp Remastered,3.34636476,50.81893311
+336,,oud gemeentehuis Zwevegem- 100- Otegemstraat- Zwevegem 8550,Complete,X,,7661,Popp Remastered,3.340711104,50.81288553
+337,,26- Salembierstraat- Zwevegem 8550,Disappeared,X,,3943,Popp Remastered,3.369794563,50.80547451
+338,,8- Hellekenbos- Heestert- Zwevegem 8551,Incomplete,X,,4176,Popp Remastered,3.371819361,50.80547451
+339,,Hellekenbos- Heestert- Zwevegem 8551,Disappeared,X,,3251,Popp Remastered,3.369084569,50.80190152
+340,,Hellekenbos- Heestert- Zwevegem 8551,Disappeared,X,,3205,Popp Remastered,3.368506056,50.79987393
+341,,86- Otegemstraat- St. Lodewijk- Deerlijk,Incomplete,X,,4216,Popp Remastered,3.388201816,50.82330216
+342,,145- Oudenaardse Heerweg- Deerlijk,Disappeared,X,,4199,Popp Remastered,3.378104123,50.83084322
+343,,167- Oudenaardse Heerweg- Deerlijk,Disappeared,X,,5713,Popp Remastered,3.380654843,50.83268677
+344,,169- Pladijsstraat- St. Lodewijk- Deerlijk,Disappeared,X,,6625,Popp Remastered,3.365245342,50.82870062
+345,,20- Brandsmisstraat- Statiewijk- Deerlijk,Disappeared,X,,5488,Popp Remastered,3.360617233,50.82753793
+346,Kasteel te Vichte,Vichteplaats 46-48 - Anzegem,Complete,CLOSED,/346 - Kasteel van Vichte,20771,Popp Remastered,3.402980211,50.83521116
+347,,34- Schalienhofstraat- De Knok- Vichte- Anzegem 8570,Disappeared,X,,3706,Popp Remastered,3.394460282,50.8379679
+348,,11A- Olekenbosstraat- Vichte- Anzegem 8570,Disappeared,X,,4941,Popp Remastered,3.385545913,50.8350783
+349,,21- Deerlijkstraat- De Knok- Vichte- Anzegem 8570,Incomplete,X,,12231,Popp Remastered,3.394644355,50.83944585
+350,,52- Pladijsstraat- Statiewijk- Deerlijk,Disappeared,X,,3682,Popp Remastered,3.354095806,50.83280303
+351,,12- Kleine Brandstraat- Harelbeke- Zwevegem 8530,Incomplete,X,,8740,Popp Remastered,3.346338464,50.83167366
+352,,15- Sint-Elooistraat- Statiewijk- Deerlijk,Incomplete,X,,5633,Popp Remastered,3.354595432,50.83879821
+353,,8- Kleine Tapuitstraat- Statiewijk- Deerlijk,Incomplete,X,,7325,Popp Remastered,3.352886187,50.84289974
+354,,59- Gaversstraat- Deerlijk,Disappeared,X,,2685,Popp Remastered,3.347653268,50.84444394
+355,,Lamett Europe NV- 2- Ter Donkt- Deerlijk,Disappeared,X,,2780,Popp Remastered,3.363667578,50.8460213
+356,,54- Vichtestraat- Deerlijk,Incomplete,X,,3549,Popp Remastered,3.366428666,50.85297766
+357,,30- Oudenaardsestraat- Harelbeke 8530,Incomplete,X,,8183,Popp Remastered,3.339580373,50.83413167
+358,,114- Ellestraat- Knokke- Zwevegem 8550,Disappeared,X,,4398,Popp Remastered,3.356488749,50.80499259
+359,,Stampkotstraat- Heestert- Zwevegem 8551,Disappeared,X,,3621,Popp Remastered,3.406398701,50.79315899
+360,,Kloosterstraat- Heestert- Zwevegem 8551,Complete,X,,2600,Popp Remastered,3.423123005,50.7909648
+361,,Veldstraat- Otegem- Zwevegem 8553,Incomplete,X,,2462,Popp Remastered,3.433010329,50.7952866
+362,,47- Zwevegemstraat- Ingooigem- Anzegem 8570,Incomplete,X,,3469,Popp Remastered,3.419168576,50.81459371
+363,,31- Evarist De Coninckstraat- Te Bosterhout- Waregem,Complete,X,,3300,Popp Remastered,3.395495593,50.86344366
+365,,31-35E- Keukeldam- Waregem,Incomplete,X,,5332,Popp Remastered,3.435280237,50.88865699
+366,Park Baron Casier ,34-stationsstraat- Waregem,Complete,OPEN,/366 - Kasteel Casier,14690,Popp Remastered,3.433398092,50.88827486
+368,,47- Putmanstraat- Waregem,Disappeared,X,,1447,Popp Remastered,3.431234708,50.89280557
+369,,47- Putmanstraat- Waregem,Disappeared,X,,1824,Popp Remastered,3.431104904,50.89320131
+370,,35- Guldensporenlaan- Waregem,Disappeared,X,,4136,Popp Remastered,3.414273772,50.89947801
+371,,Muizelstraat- Hulste- Harelbeke,Incomplete,X,,4110,Popp Remastered,3.295411273,50.90017319
+372,,Begonialaan- Hulste- Harelbeke,Disappeared,X,,9430,Popp Remastered,3.291804954,50.88552937
+373,,Abtsulstraat- Hulste- Harelbeke,Incomplete,X,,3089,Popp Remastered,3.280635383,50.88796243
+374,,Brugsestraat- Hulste- Harelbeke,Complete,X,,3013,Popp Remastered,3.277580029,50.88249577
+375,,Kwadestraat- Hulste,Incomplete,X,,4497,Popp Remastered,3.278656916,50.87943037
+376,Goed te Vrijleghem,Kwadestraat- Harelbeke,Complete,CLOSED,/376 - Hoeve Vrijlegemhof Masureel,5323,Popp Remastered,3.280384944,50.87821364
+377,,Barzestraat- Hulste- Harelbeke,Incomplete,X,,2623,Popp Remastered,3.286558403,50.8928086
+378,,Blauwhuisstraat- Hulste- Harelbeke,Incomplete,X,,2606,Popp Remastered,3.287808716,50.88620579
+379,,Tombroekstraat- Hulste- Harelbeke,Disappeared,X,,1998,Popp Remastered,3.306084089,50.89941569
+380,,Hulstsestraat- Lendelede 8860,Incomplete,X,,4169,Popp Remastered,3.267950953,50.88491647
+383,,Kennedypad- Hoog Kortrijk 8500,Disappeared,X,,10347,Popp Remastered,3.27190259,50.80128671
+384,Goed te Steeland,Kwademeers- Bellegem- Zwevegem 8510,Incomplete,X,/384 - Goed te Steeland,6092,Popp Remastered,3.302805954,50.79474028
+385,,22- Maandagweg 8500,Incomplete,X,,5047,Popp Remastered,3.289766134,50.81313244
+386,,Kortrijk- West-Vlaanderen- Vlaanderen- 8500,Disappeared,X,,16849,Popp Remastered,3.265206387,50.81274955
+387,,Priesteragestraat- Bellegem 8510,Incomplete,X,,2714,Popp Remastered,3.281358423,50.78105752
+388,,Processiestraat- Bellegem 8510,Disappeared,X,,6296,Popp Remastered,3.292180941,50.78563647
+389,,64- Stientjesstraat- Anzegem 8570,Incomplete,X,,10784,Popp Remastered,3.449891814,50.84044932
+390,,66- Stientjesstraat- Anzegem 8570,Incomplete,X,,4047,Popp Remastered,3.452585709,50.83908008
+391,,52- Grote Leiestraat- Anzegem 8570,Incomplete,X,,6440,Popp Remastered,3.465332427,50.84860166
+392,,Kasteel Hemsrode- 3- Hemsrode- Anzegem 8570,Complete,X,,77446,Popp Remastered,3.477323541,50.84449455
+393,,5- Nieuwpoortstraat- Anzegem 8570,Incomplete,X,,1405,Popp Remastered,3.468896909,50.83845769
+394,,1- Balthazarstraat- Anzegem 8570,Incomplete,X,,3474,Popp Remastered,3.489314655,50.82910005
+396,,3- Krommestraat- Anzegem 8570,Incomplete,X,,3206,Popp Remastered,3.485536633,50.82683298
+397,,2- Oudepontstraat- Kaster- Anzegem 8572,Disappeared,X,,11762,Popp Remastered,3.48460034,50.82142684
+398,,3- Tweehoeven- Tiegem- Anzegem,Incomplete,X,,10835,Popp Remastered,3.477339967,50.81589554
+399,,Goed Te Corbie- 27- Varentstraat- Kaster- Anzegem 8570,Complete,X,,9792,Popp Remastered,3.499186791,50.81296876
+400,,1- Bassegemstraat- Kaster- Anzegem 8572,Complete,X,,5026,Popp Remastered,3.486834301,50.81088255
+401,,14- Kruisstraat- Kerkhove- Avelgem 8581,Complete,X,,6530,Popp Remastered,3.494078248,50.79856056
+402,,2- Walstraat- Kerkhove- Avelgem 8581,Incomplete,X,,4979,Popp Remastered,3.488657607,50.80106259
+403,,1- Neerkouter- Waarmaarde- Avelgem 8581,Incomplete,X,,3883,Popp Remastered,3.479935304,50.80055389
+404,,Vierschaarstraat- Waarmaarde- Avelgem 8581,Disappeared,X,,3589,Popp Remastered,3.473611223,50.79802069
+405,Goed te Bassegem,3- Blauwe Poortstraat- Waarmaarde- Avelgem 8581,Complete,X,,6615,Popp Remastered,3.474646073,50.79084599
+406,,Balta Weaving- 205-237- Roterijstraat- Zone 5 Snepbeek- Sint-Eloois-Vijve- Waregem,Disappeared,X,,26285,Popp Remastered,3.401976637,50.89702476
+407,,45- Roterijstraat- Wevelgem,Complete,X,/407 - Private House,5498.779595,Popp Remastered,3.183491612,50.81573315
+409,Ter Melle,Hanssensdreef- Heule 8501,Incomplete,X,/409 - Ter Melle,2147,Popp Remastered,3.2342452,50.8452267
+410,,Kasteelpark- Heule 8501,Incomplete,X,,1790,Popp Remastered,3.2333522,50.8433385
+411,De Cransvijver,Donderbaardstraat- Bissegem 8501,Incomplete,X,/411 - De Cransvijver,3258,Popp Remastered,3.2348568,50.8324084
+414,Goed te Bassegem,Wouter Schoutstraat- Heule 8501,Incomplete,X,/414 - Goed te Bassegem,1139,Popp Remastered,3.2211426,50.870529
+415,Te Callewaerts,Athena campus Heule- 10- Guido Gezellelaan- Heule 8501,Incomplete,X,/415 - Te Callewaerts,1417,Popp Remastered,3.2395171,50.8350415
+416,t Rijs,6- Roeselaarstuk- Heule 8501,Disappeared,X,/416 - t Rijs,3880,Popp Remastered,3.2220682,50.8488863
+418,Goed ten Ackere,28- Argendaalstraat- Bellegem 8510,Incomplete,X,/418 - Goed ten Ackere,1358,Popp Remastered,3.3000064,50.7739077
+420,s Waegenaers,Grotestraat- Bellegem 8510,Incomplete,X,/420 - Incompletes Waegenaers,3684,Popp Remastered,3.285963,50.760865
+423,Goed ten Houte,Goed Ten houte- 31- Ten Houtedreef 8500,Incomplete,X,/423 - Goed ten Houte,,Ferraris,3.291747,50.7954098
+424,Kortrijkbeek,Manpad- Bellegem 8510,Disappeared,X,/424 - Kortrijkbeek,2498,Popp Remastered,3.2860829,50.7901112
+425,Hoeve De Priesterage,111- Deerlijkstraat - Zwevegem,Complete,OPEN,/425 - Hoeve De Priesterage,7145,Popp Remastered,3.3378442,50.818047
+426,,4- Kruisstraat- Wevelgem,Complete,X,/426 - Michele,4649,Popp Remastered,3.166809,50.81244
+427,Reynsakkerstraat,4- Reynsakkerstraat- Wevelgem,Complete,CLOSED,,2965,Popp Remastered,3.161814,50.812066
+428,,138- Wijnbergstraat- Wevelgem,Incomplete,X,,9753,Popp Remastered,3.155943,50.813741
+430,,19_2- Vliegveld- Wevelgem,Incomplete,X,,7388,Popp Remastered,3.197275461,50.81640368
+431,,186A- Kozakstraat- Wevelgem,Incomplete,X,,3716,Popp Remastered,3.196233867,50.8107797
+432,,55- Rivierstraat- Wevelgem,Disappeared,X,,5061,Popp Remastered,3.19488453,50.80684549
+433,,26- Tolbeekstraat- Wevelgem,Incomplete,X,,3977,Popp Remastered,3.192588289,50.80920905
+434,,131- Kweekstraat- Wevelgem,Disappeared,X,,2798,Popp Remastered,3.191523023,50.8064715
+435,,5- Gaverstraat- Wevelgem,Disappeared,X,,4691.819274,Popp Remastered,3.186338726,50.82657301
+436,,7- Kanunnik Decoenestraat- Wevelgem,Disappeared,X,,6880,Popp Remastered,3.185770584,50.8203969
+437,,4- 11 Julistraat- Wevelgem,Disappeared,X,,4364,Popp Remastered,3.182101334,50.81909578
+438,,32- Kloosterstraat- Wevelgem,Disappeared,X,,3302,Popp Remastered,3.179899783,50.80636678
+439,,99- Paridaanstraat- Wevelgem,Incomplete,X,,10131.94246,Popp Remastered,3.173200442,50.8214288
+440,,112- Moorselestraat- Wevelgem,Disappeared,X,,4387,Popp Remastered,3.170927873,50.812455
+441,,140- Moorselestraat- Wevelgem,Disappeared,X,,4545,Popp Remastered,3.167566366,50.81719637
+442,,16- Koningstraat- Wevelgem,Incomplete,X,,2939,Popp Remastered,3.158002642,50.80870044
+443,,7- Memlincstraat- Wevelgem,Incomplete,X,,4700,Popp Remastered,3.164108,50.822651
+444,,29- Hondschotestraat- Gullegem- Wevelgem,Disappeared,X,,,Ferraris,3.1970574,50.8427455
+445,,17- Esdoornstraat- Wevelgem,Disappeared,X,,4194,Popp Remastered,3.174595,50.816388
+446,,130- Ledegemstraat- Moorsele- Wevelgem,Complete,X,,,Satellite,3.14827051,50.84776282
+447,,32- Kezelberg- Moorsele- Wevelgem,Disappeared,X,,2642,Popp Remastered,3.115152806,50.83391492
+449,,61- Ter Beke- Menen 8930,Incomplete,X,,5133,Popp Remastered,3.116641214,50.81485918
+450,,Kortewaagstraat- Bedrijventerrein Menen Oost- Menen 8930,Disappeared,X,,3326,Popp Remastered,3.122719827,50.81488072
+451,,A19- Menen 8930,Disappeared,X,,6600,Popp Remastered,3.128764354,50.81682612
+453,,t Goed Indoye- 507- Menenstraat- Wevelgem,Incomplete,X,,5997,Popp Remastered,3.149761132,50.79959463
+455,,27- Sneppestraat- Wevelgem,Incomplete,X,,3220,Popp Remastered,3.15004518,50.80686135
+456,,28- Lage Posthoornstraat- Wevelgem,Incomplete,X,,2641,Popp Remastered,3.145443613,50.79786395
+457,,Boerendreef- Wevelgem- Menen,Disappeared,X,,3199,Popp Remastered,3.142943996,50.81401208
+458,,Moorselestraat- Moorsele- Menen,Disappeared,X,,2206,Popp Remastered,3.13786523,50.81944619
+459,,5- Nieuwenhove- Moorsele- Wevelgem,Disappeared,X,,4874,Popp Remastered,3.160384502,50.83700042
+460,,353- Overheulestraat- Moorsele- Wevelgem,Incomplete,X,,2758,Popp Remastered,3.153987757,50.8583279
+461,,36- Minister De Taeyelaan- Moorsele- Wevelgem,Disappeared,X,,4359,Popp Remastered,3.168417361,50.84195834
+463,,35- IJzerpoort- Gullegem- Wevelgem,Incomplete,X,,4876,Popp Remastered,3.185596543,50.83407996
+464,,47- Roodbaardstraat- Wevelgem,Disappeared,X,,2018,Popp Remastered,3.18659639,50.81207374
+465,,4- Deken Jonckheerestraat- Wevelgem,Disappeared,X,,,Popp Remastered,3.184983001,50.8077373
+466,Hoeve Kloosterhof,168- Lauwestraat- Wevelgem,Incomplete,CLOSED,,31581,Popp Remastered,3.18467623,50.80163402
+468,,E30- Lar- LAR- Lauwe- Menen 8930,Disappeared,X,,3533,Popp Remastered,3.197992369,50.77891564
+469,,Vandenbogaerde NV- Blok P32- Lar- LAR- Lauwe- Menen 8930,Disappeared,X,,1470,Popp Remastered,3.191743328,50.77244215
+470,,32-35- Brun Cornet- Rekkem- Menen 8930,Incomplete,X,,3085,Popp Remastered,3.186755457,50.76997034
+471,,7- Vlamingstraat- Wevelgem,Disappeared,X,,3131,Popp Remastered,3.211569831,50.81487354
+472,,7- Vlamingstraat- Wevelgem,Incomplete,X,,3453,Popp Remastered,3.218557396,50.81579959
+473,,26- Moravie- Wevelgem 8501,Incomplete,X,,8101,Popp Remastered,3.219216385,50.81771624
+475,,8- Kouterstraat- Wevelgem,Disappeared,X,,1615,Popp Remastered,3.209058853,50.81464382
+477,,Leenstraat- Izegem- Lendelede 8870,Incomplete,X,,4724,Popp Remastered,3.203241564,50.895013
+478,,Prizma Middenschool Lendelede- 2- Dorpsplein- De Knok- Lendelede 8860,Disappeared,X,,5334.076441,Popp Remastered,3.23808849,50.88515094
+479,,8- Burgemeester R. Vandemaeleplein- De Knok- Lendelede 8860,Disappeared,X,,3651.121902,Popp Remastered,3.237020472,50.8852943
+481,,Darmstraat- Bavikhove- Harelbeke,Incomplete,X,,6795,Popp Remastered,3.277934649,50.87191702
+482,,Veldbosstraat- Lendelede 8860,Disappeared,X,,2017,Popp Remastered,3.257483242,50.87991804
+483,,Hulsthoutlaan- Hulste- Lendelede,Disappeared,X,,3047,Popp Remastered,3.271901484,50.8827066
+484,,Acanthus- Brugsesteenweg- Hulste- Harelbeke,Disappeared,X,,3641,Popp Remastered,3.273719387,50.8865415
+485,,Brouwerijstraat- Stasegem- Harelbeke 8530,Disappeared,X,,4472,Popp Remastered,3.316326486,50.82977428
+486,,Tientjesstraat- Harelbeke 8530,Incomplete,X,,4275.100656,Popp Remastered,3.312315738,50.84844372
+487,De Goudberg,Goudwinde- Harelbeke 8530,Incomplete,CLOSED,,5685,Popp Remastered,3.32126891,50.85079661
+488,,7- Fagotstraat- Harelbeke 8530,Disappeared,X,,5299,Popp Remastered,3.327955652,50.85300344
+489,,1- Kleine Brandstraat- Harelbeke- Zwevegem 8530,Incomplete,X,,5578,Popp Remastered,3.347624882,50.8335214
+490,,Bekaert- 333- Blokkestraat- Zwevegem 8550,Disappeared,X,,3918,Popp Remastered,3.337804938,50.82086203
+491,,LAGO CLUB Zwevegem Fit- 9- Bekaertstraat- Zwevegem 8550,Disappeared,X,,6968,Popp Remastered,3.334318432,50.81610755
+492,,10- Hinnestraat- Zwevegem 8550,Incomplete,X,,3186,Popp Remastered,3.326493173,50.81767274
+493,,178- Harelbeekstraat- Zwevegem 8550,Disappeared,X,,3153,Popp Remastered,3.325352808,50.82184632
+494,,Winkelstraat- Zwevegem 8550,Incomplete,X,,6153,Popp Remastered,3.327214093,50.81162702
+495,,73- Ellestraat- Knokke- Zwevegem 8550,Incomplete,X,,3868,Popp Remastered,3.348107666,50.8066325
+496,,22- Guldenspoorpad- Kappaert- Zwevegem 8550,Incomplete,X,,5066,Popp Remastered,3.351646728,50.8078584
+497,,102- Avelgemstraat- Zwevegem 8550,Disappeared,X,,7526,Popp Remastered,3.337451157,50.80734485
+498,,27- Ellestraat- Zwevegem 8550,Disappeared,X,,3766,Popp Remastered,3.342051938,50.8088772
+499,,Pijpestraat- Spiere- Spiere-Helkijn 8587,Complete,X,,16673,Popp Remastered,3.348920339,50.72801653
+500,Kasteel van Spiere Helkijn,Hellenhoek- Spiere- Spiere-Helkijn 8587,Complete,X,,7663,Popp Remastered,3.354661484,50.7248801
+501,,Gaverstraat- Helkijn- Spiere-Helkijn 8587,Incomplete,X,,8532,Popp Remastered,3.368843947,50.73477824
+502,,4- Gaaistraat- Deerlijk,Incomplete,X,,2358,Popp Remastered,3.369577975,50.83717108
+503,,30- Pontstraat- Deerlijk,Disappeared,X,,4387,Popp Remastered,3.357269904,50.85051301
+504,,256- Waregemstraat- Deerlijk,Incomplete,X,,3043,Popp Remastered,3.378045508,50.8559083
+505,,Mote- Desselgem- Waregem,Incomplete,X,,4175,Popp Remastered,3.349680582,50.88523216
+506,,93- Leemputstraat- Leemput- Desselgem- Waregem,Disappeared,X,,5082,Popp Remastered,3.383943945,50.87081655
+507,,Desselgemknokstraat- Leemput- Desselgem- Waregem,Disappeared,X,,3729,Popp Remastered,3.378438737,50.86491835
+508,,55- Desselgemknokstraat- Leemput- Desselgem- Waregem,Incomplete,X,,2111,Popp Remastered,3.37892372,50.8678055
+509,,Mirakelstraat- Waregem,Disappeared,X,,2799,Popp Remastered,3.397772502,50.87070075
+510,,5- Mekeirleweg- Vichte- Anzegem 8570,Disappeared,X,,2695,Popp Remastered,3.390982746,50.83249388
+511,,Vierkeerstraat- Heestert- Zwevegem 8551,Incomplete,X,,5048,Popp Remastered,3.405165209,50.78750259
+512,,Raaptorfstraat- Heestert- Zwevegem 8551,Disappeared,X,,4998,Popp Remastered,3.415979009,50.77141548
+513,,17- Pastoor Verrieststraat- Ingooigem- Anzegem 8570,Disappeared,X,,3084,Popp Remastered,3.434093763,50.81854227
+514,,34- Emiel Clausstraat- Sint-Eloois-Vijve- Waregem,Disappeared,X,,863,Popp Remastered,3.408193073,50.90980201
+516,,Drogenboomstraat- Waregem,Incomplete,X,,1427,Popp Remastered,3.450058865,50.89839501
+517,,1- Borrestraat- Tiegem- Anzegem,Incomplete,X,,5030,Popp Remastered,3.460046884,50.82683094
+518,,26 A / 26 B- Ringlaan- Kuurne,Disappeared,X,,3534,Popp Remastered,3.260423145,50.85146038
+519,,218- Kortrijkseweg- Dries- Beveren-Leie- Waregem,Disappeared,X,,4038,Popp Remastered,3.347985,50.874324
+520,,Bergelen- Moorsele- Wevelgem,Disappeared,X,,3284,Popp Remastered,3.169827375,50.83680738
+521,,72- Karrestraat- Moorsele- Wevelgem,Disappeared,X,,4103,Popp Remastered,3.166214743,50.8362495
+522,,92- Heerweg- Moorsele- Wevelgem,Disappeared,X,,2146,Popp Remastered,3.171752354,50.83791481
+523,,44- Heerweg- Moorsele- Wevelgem,Incomplete,X,,5606,Popp Remastered,3.168561635,50.83807301
+524,,Moteweg- Marke,Incomplete,X,,2149,Popp Remastered,3.235926,50.803299
+525,,,Incomplete,X,,1471.338443,Popp Remastered,3.465787298,50.89520516
+526,,,Incomplete,X,,3053,Popp Remastered,3.453739132,50.82862902
+529,,,Incomplete,X,,1977,Popp Remastered,3.370857081,50.8525058
+531,,,Disappeared,X,,2141,Popp Remastered,3.362271236,50.82300211
+532,,,Disappeared,X,,2773,Popp Remastered,3.349085747,50.82696371
+533,,,Disappeared,X,,,Ferraris,3.342066093,50.87425326
+535,,,Disappeared,X,,4181,Popp Remastered,3.318466156,50.78458811
+536,,,Disappeared,X,,5039.68786,Popp Remastered,3.293728855,50.82732766
+537,,,Disappeared,X,,5107,Popp Remastered,3.282618113,50.88040074
+539,,,Incomplete,X,,5946,Popp Remastered,3.241806838,50.89007994
+542,,,Disappeared,X,,5999,Popp Remastered,3.208620299,50.8419613
+543,,,Incomplete,X,,5321,Popp Remastered,3.20138737,50.88234253
+544,,,Disappeared,X,,,Ferraris,3.194516362,50.85642019
+545,,,Disappeared,X,,3862,Popp Remastered,3.191812783,50.85204138
+547,,,Incomplete,X,,4395,Popp Remastered,3.17064952,50.8014524
+548,,,Incomplete,X,,4121,Popp Remastered,3.168123224,50.7765017
+549,,,Disappeared,X,,2332,Popp Remastered,3.162070845,50.80939616
+551,,,Incomplete,X,,,Ferraris,3.15103749,50.84098759
+555,,,Disappeared,X,,728,Popp Remastered,3.095636277,50.79167544
+556,,,Incomplete,X,,4484,Popp Remastered,3.092312204,50.79814695
+557,,,Incomplete,X,,5797,Popp Remastered,3.091979797,50.79929548
+558,Regenboog Park,,Complete,CLOSED,,5293.139414,Popp Remastered,3.4308781,50.8838017
+559,Wagenhuis Kapel O.L.V. Ten Spieghele,Cistercienzerplein Kortrijk,Incomplete,OPEN,,,Satellite,3.2500776,50.8044545
+560,Ten Rooden Duifhuize ,Moenstraat 10 Zwevegem,Incomplete,OPEN,,,Satellite,3.3782963,50.7584924
+561,,,Disappeared,X,,4106,Popp Remastered,3.3560137,50.8523466
+562,,,Disappeared,X,,2874,Popp Remastered,3.3632105,50.8486056
+563,,,Disappeared,X,,4110,Popp Remastered,3.407013429,50.86339863
+565,,,Disappeared,X,,4788,Popp Remastered,3.200005655,50.82020228
+566,,Burgemeester Pyckestraat 8500,Incomplete,X,,4085,Popp Remastered,3.267861,50.821187
+567,,,Disappeared,X,,1497,Popp Remastered,3.372095914,50.83662898
+568,,,Incomplete,X,,2408,Popp Remastered,3.196565107,50.85175685
+569,Kasteel Van Moorsele,,Complete,CLOSED,,,Satellite,3.163273632,50.8416519

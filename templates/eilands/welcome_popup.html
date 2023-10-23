@@ -1,0 +1,37 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
+<style type="text/css">
+
+</style>
+<script type='text/javascript'>
+$(function(){
+var overlay = $('<div id="overlay"></div>');
+overlay.show();
+overlay.appendTo(document.body);
+$('.popup').show();
+$('.close').click(function(){
+$('.popup').hide();
+overlay.appendTo(document.body).remove();
+return false;
+});
+
+
+
+$('.x').click(function(){
+$('.popup').hide();
+overlay.appendTo(document.body).remove();
+return false;
+});
+});
+</script>
+
+
+<div class='popup'>
+<div class='cnt223'>
+<h2 style="color:black">Welcome to our Database!</h2>
+<span>In oder to make our Database more accessible to the public, we've created this online map. Join in on the fun and help us put the Eilands on the map!</span>
+<span class="small">For more information on the Eilands, visit our site: <a href="https://eiland.design/">eiland.design</a> </span><br><br>
+<img src="{{ url_for('static',filename='Eilands/styles/images/logos.png') }}"style="float:center;max-width: 100%;width: 200px;" alt=""><br>
+
+<p><a href='' class='close' onclick="startonboarding('1')">Start mapping with us!</a></p>
+</div>
+</div>

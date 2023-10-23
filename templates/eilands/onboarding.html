@@ -1,0 +1,99 @@
+<div class="onboarding" id="onboarding">
+
+<div class="onboardingcontent" id="1">
+<div class="onboardingimage">
+  <div class="board1">
+  </div>
+</div>
+<div class="onboardingtext">
+  <div>
+      <h2 style="font-weight:600;">What are Eilands?</h2>
+      <span>Eilands refer to vernacular settlements that are surrounded by water hidden within the urban sprawl of Flemish Cities. In late mediaeval times they constituted a network stretching from the urban centres to countrysides across the whole region, following the course of water. Many of these Eilands still exist and have evolved into fascinating spaces. But if nothing is done, they may all soon disappear...</span>
+  </div>
+</div>
+</div>
+
+
+
+<div  class="onboardingcontent" id="2">
+<div class="onboardingimage" style="height:90%;">
+  <div class="unammedeiland">
+  </div>
+</div>
+<div class="onboardingtext">
+  <div style="color:white!important;">
+      <h2 style="font-weight:600;color:white!important;">Why Eilands?</h2>
+      <span>Did you know about them? Neither did we!</>
+      <span>Eilands are important material and immaterial Belgian heritage. Their sheer number, architecture and environmental value mean that they can be revived through future sustainable development initiatives. Let's rekindle our relations with our countryside! Step 1: Let's map them all!</span>
+  </div>
+</div>
+</div>
+
+
+
+<div class="onboardingcontent"  id="3">
+<div class="onboardingimage" style="height:50%">
+  <div class="sixth"><img class="imgcheck" width="100px" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/1.jpg') }}" alt=""></div>
+  <div class="sixth"><img class="imgcheck" width="100px" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/2.jpg') }}" alt=""></div>
+  <div class="sixth"><img class="imgcheck" width="100px" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/3.jpg') }}" alt=""></div>
+  <div class="sixth"><img class="imgcheck" width="100px" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/4.jpg') }}" alt=""></div>
+  <div class="sixth"><img class="imgcheck" width="100px" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/5.jpg') }}" alt=""></div>
+  <div class="sixth"><img class="imgcheck" width="100px" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/6.jpg') }}" alt=""></div>
+</div>
+<div class="onboardingtext">
+  <div>
+      <h2 style="font-weight:600;">How do you spot one?</h2>
+      <span>To spot Eilands, the easiest way is to use historical maps. Lookout for circular shapes of water. If there is not a complete ring of water, there may have been one before, so keep an eye out for any other traces like trees or round parcels. Still got some free time? Don't hesitate to go check them out in person and send us your feedback!<span>
+  </div>
+</div>
+</div>
+
+
+
+<div  class="onboardingcontent" id="4">
+<div class="onboardingimage center">
+  <div class="column third" >
+    <h2  style="text-align: center;">Disapeared Moat</h2>
+    <img class="imgcheck" width="100%" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/disapeared.jpg') }}" alt="">
+  </div>
+  <div class="column third">
+    <h2  style="text-align: center;">Incomplete Moat</h2>
+    <img class="imgcheck" width="100%" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/incomplete.jpg') }}" alt="">
+  </div>
+  <div class="column third">
+    <h2  style="text-align: center;">Intact Moat</h2>
+    <img class="imgcheck" width="100%" src="{{ url_for('static',filename='Eilands/styles/images/onboarding/complete.jpg') }}" alt="">
+  </div>
+</div>
+
+<div class="onboardingtext">
+  <div>
+      <h2 style="font-weight:600;">Assess the state of preservation</h2>
+      <span>Switch between the historical maps and recent satellite images to see if there are still any traces of water, or if the Eiland has completely disappeared. If you're still not sure, that's okay we will have to check in the field!<span>
+  </div>
+</div>
+</div>
+
+
+
+
+
+<div class="bottomcontrols">
+
+<span onclick="stoponboarding(), instruction1()" >Skip</span>
+
+<div class="circleholder">
+<div class="menucircle" id="circle1" onclick="startonboarding('1')">
+</div>
+<div class="menucircle" id="circle2" onclick="startonboarding('2')">
+</div>
+<div class="menucircle" id="circle3" onclick="startonboarding('3')">
+</div>
+<div class="menucircle" id="circle4" onclick="startonboarding('4')">
+</div>
+</div>
+
+<span onclick="nextboard()" style="font-weight:600;text-decoration: underline;">Next</span>
+</div>
+
+</div>

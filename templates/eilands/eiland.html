@@ -1,0 +1,17 @@
+<div class="column third">
+{% if eiland['name'] != ""%}
+<h2 style="color:black;">{{eiland['name']}}</h2>
+{% else %}
+<h2 style="color:black;">No Name</h2>
+{% endif %}
+<p style="color:black;">ID: {{eiland['id']}}</p>
+<p style="color:black;">Coord: {{eiland['y']}}'N {{eiland['x']}}'E</p>
+<p style="color:black;">address: {{eiland['adress']}}</p>
+<p style="color:black;">Moat Conservation: {{eiland['moat_situation']}}</p>
+<p style="color:black;">Water surface (in 1860's): {{eiland['water_area']}} m²</p>
+</div>
+
+
+<div class="column third" style="vertical-align:top">
+  <a href="https://www.google.com/maps/search/?api=1&query={{eiland['y']}},{{eiland['x']}}" target="blank"><img src="{{ url_for('static',filename='Eilands/styles/images/googlemaps.jfif') }}" width="40px"></a>
+</div>

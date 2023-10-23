@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+
+
+<head>
+  <title>Eilands</title>
+
+  <link rel="stylesheet" href="{{ url_for('static',filename='Eilands/styles/styles.css') }}">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js" integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA==" crossorigin="anonymous"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body onload="makemap(),loadlayers(),get_count()">
+
+  {% include 'eilands/header.html' %}
+  {% include 'eilands/menu.html' %}
+  {% include 'eilands/credits.html' %}
+  {% include 'eilands/gallery.html' %}
+  {% include 'eilands/welcome_popup.html' %}
+  {% include 'eilands/neweilandgallery.html' %}
+  {% include 'eilands/custom_markers.html' %}
+  {% include 'eilands/instructions.html' %}
+  {% include 'eilands/onboarding.html' %}
+
+  <div id="map">
+  </div>
+
+</body>
+
+
+<script src="{{ url_for('static',filename='Eilands/scripts/eilands.js') }}"></script>
+{% include 'eilands/layerscontrol.html' %}
+
+</html>
